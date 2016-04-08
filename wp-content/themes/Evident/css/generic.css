@@ -1,0 +1,85 @@
+/* #WordPress Generated Generics
+================================================== */
+
+
+	.alignleft { float:left;
+	 margin:4px 10px 0px 0;  
+	 display: block; 
+	 }
+	 
+	.alignright { 
+	float:right;
+	margin:4px 0px 0px 10px;
+	display: block; 
+	}
+	
+	.aligncenter{ 
+	clear:both; 
+	display:block; 
+	margin:10px auto; 
+	padding: 10px 0;
+	}
+	
+	.alignleft img, .alignright img { 
+	display:block; 
+	} 
+
+	.wp-caption {
+	max-width:100%;
+    position: relative;
+	margin-bottom: 1.5em;
+	}
+
+	.wp-caption img {
+	border: 0 none;
+	padding: 0;
+	margin: 0;
+	display: block;
+    width: 100%;
+	}
+	
+
+	.wp-caption-text {
+    position: absolute;
+    bottom:0px;
+    left: 0px%;
+	width:60%;
+    color: white;
+    font-size: 90%;
+    padding: 1em 3%;
+	border-radius:2px;
+	opacity: 0.9;
+	width:94%;
+	}
+
+	.wp-caption img {
+	border-radius:2px;
+	}
+
+	.entry-content img {
+	margin: 0 0 1.5em 0;
+	}
+	
+	.wp-smiley {
+	margin: 0 !important;
+	max-height: 1em;
+	}
+	
+
+	blockquote.left {
+	margin-right: 20px;
+	text-align: right;
+	margin-left: 0;
+	width: 33%;
+	float: left;
+	}
+	
+	blockquote.right {
+	margin-left: 20px;
+	text-align: left;
+	margin-right: 0;
+	width: 33%;
+	float: right;
+	}
+	
+	

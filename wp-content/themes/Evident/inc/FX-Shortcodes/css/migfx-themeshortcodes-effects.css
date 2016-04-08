@@ -1,0 +1,481 @@
+/* Clearfix */
+	
+	.clear	{
+	clear:both;
+	display:block;
+	height:0;
+	overflow:hidden;
+	visibility:hidden;
+	width:0
+	}
+	
+	.clearfix:after	{
+	clear:both;
+	content:' ';
+	display:block;
+	font-size:0;
+	height:0;
+	line-height:0;
+	visibility:hidden;
+	width:0
+	}
+	
+	
+	a {border:none;}
+	
+/*=======================Evident Carousel============================*/
+
+	.caroufredsel_wrapper li {
+	border: 2px solid transparent;
+    float: left;
+	}
+
+	.caroufredsel_wrapper img {
+	margin: 0 auto;
+	width:100%;
+	}
+
+
+	.caroufredsel_wrapper ul {
+    margin-bottom: 22px;
+    width: 100%;
+    clear: both;
+	}
+	
+	.mig_carousel_nav {
+    display: inline-block;
+    float: right;
+    padding-left: 11px;
+	}
+	
+	.mig_carousel_nav a {
+    background-color: rgba(0,0,0,0.05);
+    margin-left: 4px;
+    padding: 5px 9px;
+    color: #222;
+	font-size:10px;
+	}
+
+/*============================ FX News ======================================*/
+	/*effect*/
+	.evident_news_main_image a:hover > img {
+    transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -o-box-transform: scale(1.2);
+
+	}
+
+	.evident_news_main_image {
+    overflow: hidden;
+	}
+
+	.evident_news_main_image img {
+    transition: all 0.6s;
+    -moz-transition: all 0.6s;
+    -webkit-transition: all 0.6s;
+    -o-box-transition: all 0.6s;
+	}
+	/*=====*/
+	
+	
+	.evident_news_info {
+    padding: 15px 3%;
+	}
+	
+	.evident_news_column.two {
+    width: 48.5%;
+    float: left;
+    margin-right: 3%;
+	}
+
+	.evident_news_column.three {
+    width: 31.33%;
+    float: left;
+    margin-right: 3%;
+	}
+
+	
+	.evident_news_column.four {
+    width: 22.75%;
+    float: left;
+    margin-right: 3%;
+	}
+
+	.evident_news_main_image {
+    margin-bottom: 1.2em;
+	}
+
+	.evident_news_block_title.slashes, .evident-column-block-title.slashes, .evident-divider.slashes {
+    background-image: url("../../../images/header-pattern.png");
+    background-position: center center;
+    background-repeat: repeat-x;
+	margin-bottom:40px;
+	}
+	
+	.evident_news_block_title.points, .evident-column-block-title.points, .evident-divider.points {
+    background-image: url("../../../images/points.png");
+    background-position: center center;
+    background-repeat: repeat-x;
+	margin-bottom:40px;
+	}
+	
+	.evident_news_block_title.line, .evident-column-block-title.line, .evident-divider.line {
+    background-image: url("../../../images/line.png");
+    background-position: center center;
+    background-repeat: repeat-x;
+	margin-bottom:40px;
+	}
+	
+	.evident_news_block_title.none, .evident-column-block-title.none {
+	margin-bottom:40px;
+	}
+	
+	.evident_news_block_title h2, .evident-column-block-title h2{
+    margin-bottom: 0;
+    display: inline-block;
+    background: white;
+    padding-right: 11px;
+	}
+	
+	.evident_news_title {
+    font-size: 140%;
+	font-weight: 600;
+	}
+
+	.evident_news_date {
+    opacity: 0.7;
+    font-style: italic;
+	}
+	
+	
+
+	.evident_news_content {
+    margin-bottom: 1em;
+	}
+	
+	.evident_news_excerpt {
+    margin-top: 1em;
+	}
+	
+	.evident_news_viewmore {
+    font-style: italic;
+	}
+	
+/*============================= Divider ===================================*/
+
+	.evident-divider {
+    height: 40px;
+    width: 100%;
+    display: block;
+    float: left;
+    clear: both;
+	}	
+
+/*=========================== Featured Box ==================================*/
+
+	.evident-featuredbox-content {
+    width: 42%;
+    float: right;
+    padding: 4%
+	}
+	
+	.evident-featuredbox-main {
+    margin-top: 1.5em;
+	}
+
+	.evident-featuredbox-content h4 {
+    opacity: 0.6;
+    font-weight: normal;
+    font-style: italic;
+    margin-top: 0.7em;
+	}
+	
+	.evident-featuredbox-featured {
+    width: 42%;
+    padding: 4%;
+    float: left;
+	}
+	
+	.evident-featuredbox-border {
+    max-width: 99.9%;
+	}
+
+/*================================== Icon Box One ===============================*/
+
+	
+	.evident-iconboxone-padding {
+    padding: 6% 4%;
+	}
+	
+	.evident-iconboxone-wrapper h3 {
+    margin-bottom:1em;
+	margin-top:0.3em;
+	line-height:1.4em;
+	}
+	
+	.evident-iconboxone-wrapper {
+    text-align: center;
+	}
+	
+	.evident-iconboxone-icon {
+    display: inline-block;
+    padding: 0.5em 0.6em;
+    margin-top: -1em;
+	}
+	
+	.evident-iconboxone-icon-wrapper {
+    text-align: center;
+	}
+		
+/*================================ Icon Box Two =============================*/
+	.evident-iconboxtwo-wrapper {
+    float: left;
+	}
+
+	.evident-icon {
+    float: left;
+	}
+
+	.evident-iconboxtwo-wrapper h3 {
+    float: left;
+    margin-bottom: 1em;
+    margin-left: 0.5em;
+    clear: right;
+	}
+
+	.evident-iconboxtwo-content {
+    clear: both;
+    width: 100%;
+	}
+	
+/*================================== Sizes =================================*/
+	
+	/*columns*/
+ .evident-column  {margin-right: 6%;}
+ .evident-column.last  {margin-right: 0 !important} 
+ .evident-column.full { width: 100%; float: left; margin-right:0; }
+ .evident-column.one-half { width: 47%; float: left; }
+ .evident-column.one-third { width: 29.33%; float: left; } 
+ .evident-column.two-third { width: 64.67%; float: left; } 
+ .evident-column.one-fourth { width: 20.5%; float: left; } 
+ .evident-column.three-fourth { width: 73.5%; float: left; }
+ 
+ .evident-column .evident-column:last-child {
+    margin-bottom: 0px !important;
+ }
+	
+/*======================= Titles ========================================*/
+
+	h1.evident-title {font-size: 250%; line-height:1.2em;}
+	h2.evident-title {font-size: 200%; line-height:1.2em;}
+	h3.evident-title {font-size: 130%; line-height:1.2em;}
+	
+	.evident-subtitle {
+    margin-top: 1em;
+	}	
+	
+	.evident-page-title-wrapper {margin-bottom:40px;}
+	
+	.evident-title {
+    margin-bottom: 0.3em;
+	}
+
+/*====================== Buttons ==================================*/
+	.evident-button-wrapper {
+    display: inline-block;
+    border-radius: 2px;
+    margin-bottom:20px;
+    margin-right: 10px;
+	}
+	
+	.evident-button-wrapper a {
+	padding: 1em;
+	display:block;	
+	}
+	
+	.evident-button-wrapper i {
+    margin-right: 0.4em;
+	}
+	
+/*================================ Promo Box ===================================*/
+
+	.evident-promobox-content {
+    float: left;
+    padding: 4%;
+	}
+	
+	
+	.evident-promobox-wrapper {
+    border-radius: 2px;
+	}
+	
+	
+	.evident-promobox-content h2 {
+	line-height: 1.4em;
+    margin-bottom: 0.2em;
+	}
+	
+	.evident-promobox-wrapper {
+    display: table;
+	}
+	
+	.evident-promobox-button {
+    display: table-cell;
+    vertical-align: middle;
+	text-align: right;
+    padding-right: 4%;
+	min-width:160px;
+	}
+	
+	.evident-promobox-button a {
+    padding: 10px;
+    border-radius: 3px;
+	min-width:120px;
+	display:inline-block;
+	text-align:center;
+	}
+
+/*================================= General ==================================*/
+	.evident-column .evident-column {
+    margin-top: 0 !important;
+    margin-bottom: 6em !important;
+	}	
+	.evident-column {
+	margin-top: 3em;
+	margin-bottom: 3em;
+	}
+	
+	.evident-promobox-border {
+    display: table;
+    width: 99.9%;
+    border: none;
+	}
+	
+/*============================= Others =======================================*/
+
+	.clearboth {
+    clear: both;
+	}
+
+
+/*======================== Responsive Rules ===================================*/
+@media screen and (min-width:791px) {
+	.evident_news_column.three:nth-child(3n+3) {
+    	margin-right: 0;
+	}
+
+	.evident_news_column.three:nth-child(3n+1) {
+    	clear: left;
+	}
+
+	.evident_news_column.four:nth-child(4n+4) {
+    	margin-right: 0;
+	}
+
+	.evident_news_column.four:nth-child(4n+1) {
+    	clear: left;
+	}
+
+	.evident_news_column.one, .evident_news_column.two:nth-child(1n+3), .evident_news_column.three:nth-child(1n+4), .evident_news_column.four:nth-child(1n+5) {
+    	margin-top: 3em;
+	}
+
+	.evident_news_column.two:nth-child(2n+2) {
+	margin-right: 0;
+	}
+
+	.evident_news_column.two:nth-child(2n+1) {
+    	clear: left;
+	}
+
+}
+
+@media screen and (max-width: 790px)  {
+	/*columns*/
+ 	.evident-column  {margin-right: 4%;}
+ 	.evident-column.last  {margin-right: 0 !important} 
+ 	.evident-column.full { width: 100%; float: left; }
+ 	.evident-column.one-half { width: 100%; float: left; }
+ 	.evident-column.one-third { width: 47%; float: left; } 
+ 	.evident-column.two-third { width: 47%; float: left; } 
+ 	.evident-column.one-fourth { width: 47%; float: left; } 
+ 	.evident-column.three-fourth { width: 47%; float: left; }
+ 
+ 	.evident-column .evident-column:last-child {
+    margin-bottom: 0px !important;
+ 	}	
+
+	.evident_news_column.two {
+    width: 100%;
+    float: left;
+    margin-right: 3%;
+	}
+		
+	.evident_news_column.three {
+    width: 48.5%;
+    float: left;
+    margin-right: 3%;
+	}
+	
+	.evident_news_column.four {
+    width: 48.5%;
+    float: left;
+    margin-right: 3%;
+	}
+	
+	.evident_news_column.three:nth-child(2n+2), .evident_news_column.four:nth-child(2n+2) { margin-right:0 !important;}
+	.evident_news_column.three:nth-child(3n+1), .evident_news_column.four:nth-child(4n+1), .evident_news_column.two:nth-child(2n+1) {
+    clear: none;
+	}
+	.evident_news_column.one, .evident_news_column.two:nth-child(1n+3), .evident_news_column.three:nth-child(1n+3), .evident_news_column.four:nth-child(1n+3) {
+    margin-top: 3em;
+	}
+	
+	.evident-featuredbox-content, .evident-featuredbox-featured { width:92%;}
+}
+
+@media screen and (max-width: 500px)  { 
+	/*columns*/
+ 	.evident-column  {margin-right: 0%;}
+ 	.evident-column.last  {margin-right: 0 !important} 
+ 	.evident-column.one-half { width: 100%; float: left; }
+ 	.evident-column.one-third { width: 100%; float: left; } 
+ 	.evident-column.two-third { width: 100%; float: left; } 
+ 	.evident-column.one-fourth { width: 100%; float: left; } 
+ 	.evident-column.three-fourth { width: 100%; float: left; }
+ 
+ 	.evident-column .evident-column:last-child {
+    margin-bottom: 0px !important;
+ 	}
+	
+	.evident_news_column.two {
+    width: 100%;
+    float: left;
+    margin-right: 0%;
+	}
+		
+	.evident_news_column.three {
+    width: 100%;
+    float: left;
+    margin-right: 0%;
+	}
+	
+	.evident_news_column.four {
+    width: 100%;
+    float: left;
+    margin-right: 0%;
+	}	
+	.evident-promobox-content {
+	text-align:center;	
+	}
+	.evident-promobox-button {
+	display:block;
+	text-align:center;
+	width:100%;
+	clear:both;
+	margin: 2.5em 0;	
+	}
+	
+	
+}

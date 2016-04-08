@@ -1,0 +1,2578 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Catch Kathmandu Pro\n"
+"POT-Creation-Date: 2015-08-20 14:03+0545\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sakin Shrestha <info@catchthemes.com>\n"
+"Language-Team: Catch Themes <info@catchthemes.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps! Die pagina kan niet worden gevonden."
+
+#: ../404.php:28
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Het lijkt erop dat er niks gevonden is op deze locatie. Misschien zoekt u "
+"een van de links hieronder?"
+
+#: ../404.php:35
+msgid "Most Used Categories"
+msgstr "Meest gebruikte categorieën"
+
+#. translators: %1$s: smilie
+#: ../404.php:43
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Probeer eens te zoeken in de maandelijkse archieven. %1$s"
+
+#: ../archive.php:23
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Archieven naar categorie: %s"
+
+#: ../archive.php:26
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Archieven naar tags: %s"
+
+#: ../archive.php:33
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Archieven naar auteurs: %s"
+
+#: ../archive.php:41
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Dagelijkse archieven: %s"
+
+#: ../archive.php:44
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Maandelijkse archieven: %s"
+
+#: ../archive.php:47
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Jaarlijkse archieven: %s"
+
+#: ../archive.php:50 ../sidebar.php:101
+msgid "Archives"
+msgstr "Archieven"
+
+#: ../comments.php:33
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Een gedachte over  &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachten over  &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:40 ../comments.php:60
+msgid "Comment navigation"
+msgstr "Navigatie door reacties"
+
+#: ../comments.php:41 ../comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; Eerdere reacties"
+
+#: ../comments.php:42 ../comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwere reacties %rarr;"
+
+#: ../comments.php:72
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: ../content-aside.php:21 ../content-audio.php:21 ../content-chat.php:22
+#: ../content-gallery.php:25 ../content-gallery.php:42
+#: ../content-gallery.php:43 ../content-image.php:23 ../content-page.php:18
+#: ../content-single.php:18 ../content-video.php:24 ../content.php:32
+#: ../inc/catchkathmandu-functions.php:581
+#, php-format
+msgid "Permalink to %s"
+msgstr "Link naar %s"
+
+#: ../content-aside.php:27 ../content-audio.php:33 ../content-chat.php:34
+#: ../content-gallery.php:49 ../content-image.php:35 ../content-link.php:30
+#: ../content-page.php:27 ../content-quote.php:26 ../content-single.php:29
+#: ../content-status.php:34 ../content-video.php:36 ../content.php:52
+#: ../image.php:101
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: ../content-aside.php:40 ../content-audio.php:46 ../content-chat.php:47
+#: ../content-gallery.php:63 ../content-image.php:48 ../content-link.php:42
+#: ../content-quote.php:38 ../content-single.php:46 ../content-status.php:46
+#: ../content-video.php:49 ../content.php:66
+msgid "Leave a reply"
+msgstr "Reageer"
+
+#: ../content-aside.php:40 ../content-audio.php:46 ../content-chat.php:47
+#: ../content-gallery.php:63 ../content-image.php:48 ../content-link.php:42
+#: ../content-quote.php:38 ../content-single.php:46 ../content-status.php:46
+#: ../content-video.php:49 ../content.php:66
+msgid "1 Reply"
+msgstr "1 reactie"
+
+#: ../content-aside.php:40 ../content-audio.php:46 ../content-chat.php:47
+#: ../content-gallery.php:63 ../content-image.php:48 ../content-link.php:42
+#: ../content-quote.php:38 ../content-status.php:46 ../content-video.php:49
+msgid "% Replies;"
+msgstr "% reacties;"
+
+#: ../content-aside.php:42 ../content-audio.php:48 ../content-chat.php:49
+#: ../content-gallery.php:65 ../content-image.php:50 ../content-link.php:44
+#: ../content-page.php:36 ../content-quote.php:40 ../content-single.php:49
+#: ../content-status.php:48 ../content-video.php:51 ../content.php:69
+#: ../image.php:47 ../image.php:122 ../inc/template-tags.php:196
+msgid "Edit"
+msgstr "Bewerken"
+
+#: ../content-audio.php:22
+msgid "All Audio Posts"
+msgstr "Alle geluidsberichten"
+
+#: ../content-audio.php:22
+msgid "Audio"
+msgstr "Geluid"
+
+#: ../content-chat.php:23
+msgid "All Chat Posts"
+msgstr "Alle chatberichten"
+
+#: ../content-chat.php:23
+msgid "Chat"
+msgstr "Chat"
+
+#: ../content-gallery.php:26
+msgid "All Gallery Posts"
+msgstr "Alle galerijberichten"
+
+#: ../content-gallery.php:26
+msgid "Gallery"
+msgstr "Galerij"
+
+#: ../content-gallery.php:43
+#, php-format
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Deze galerij bevat <a %1$s>%2$s foto</a>"
+msgstr[1] "Deze galerij bevat <a %1$s>%2$s foto's</a>"
+
+#: ../content-image.php:24
+msgid "All Image Posts"
+msgstr "Alle fotoberichten"
+
+#: ../content-image.php:24 ../inc/panel/theme-options.php:1735
+#: ../inc/panel/theme-options.php:2010
+msgid "Image"
+msgstr "Foto"
+
+#: ../content-link.php:24
+msgid "All Link Posts"
+msgstr "Alle linkberichten"
+
+#: ../content-link.php:24
+msgid "Link"
+msgstr "Links"
+
+#: ../content-single.php:46 ../content.php:66
+msgid "% Replies"
+msgstr "% Reacties"
+
+#: ../content-single.php:56 ../content.php:76
+#, php-format
+msgid "About %s"
+msgstr "Over %s"
+
+#: ../content-single.php:60 ../content.php:80
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+"Bekijk alle berichten gesorteerd op %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../content-status.php:28
+msgid "All Status Posts"
+msgstr "Alle statusberichten"
+
+#: ../content-status.php:28
+msgid "Status"
+msgstr "Status"
+
+#: ../content-video.php:25
+msgid "All Video Posts"
+msgstr "Alle videoberichten"
+
+#: ../content-video.php:25
+msgid "Video"
+msgstr "Video"
+
+#: ../content.php:24
+msgid "Featured post"
+msgstr "Uitgelicht bericht"
+
+#: ../functions.php:158 ../inc/catchkathmandu-menus.php:11
+msgid "Primary Menu"
+msgstr "Hoofdmenu"
+
+#: ../functions.php:159 ../inc/catchkathmandu-menus.php:45
+msgid "Secondary Menu"
+msgstr "Alternatief menu"
+
+#: ../functions.php:160 ../inc/catchkathmandu-menus.php:73
+msgid "Footer Menu"
+msgstr "Footer menu"
+
+#: ../image.php:37
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s"
+"\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"Gepubliceerd op<span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\" pubdate>%2$s</time></span> om <a href=\"%3$s\" title="
+"\"Link naar volledige afbeelding\">%4$s &times; %5$s</a> in <a href=\"%6$s\" "
+"title=\"Terug naar %7$s\" rel=\"gallery\">%7$s</a> "
+
+#: ../image.php:51
+msgid "&larr; Previous"
+msgstr "&larr; Vorige"
+
+#: ../image.php:52
+msgid "Next &rarr;"
+msgstr "Volgende &rarr;"
+
+#: ../image.php:113
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Plaats een reactie"
+"\">Plaats een reactie</a> of een trackback: <a class=\"trackback-link\" href="
+"\"%s\" title=\"Trackback URL voor dit bericht\" rel=\"trackback\">Trackback "
+"URL</a>. "
+
+#: ../image.php:115
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+"Reacties zijn gesloten, maar u kunt een trackback achterlaten: <a class="
+"\"trackback-link\" href=\"%s\" title=\"Trackback URL voor dit bericht\" rel="
+"\"trackback\">Trackback URL</a>."
+
+#: ../image.php:117
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+"Trackbacks zijn gesloten, maar u kunt <a class=\"comment-link\" href="
+"\"#respond\" title=\"Plaats een reactie\">een reactie plaatsen</a>."
+
+#: ../image.php:119
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Zowel reacties als trackbacks zijn gesloten."
+
+#: ../inc/catchkathmandu-functions.php:1523
+msgid ""
+"You have selected Post Slider but you haven't added the Post ID in "
+"\"Appearance => Theme Options => Featured Slider => Featured Post Slider "
+"Options\""
+msgstr ""
+"You have selected Post Slider but you haven't added the Post ID in "
+"\"Appearance => Theme Options => Featured Slider => Featured Post Slider "
+"Options\""
+
+#: ../inc/catchkathmandu-functions.php:1531
+msgid ""
+"You have selected Page Slider but you haven't added the Page ID in "
+"\"Appearance => Theme Options => Featured Slider => Featured Page Slider "
+"Options\""
+msgstr ""
+"You have selected Page Slider but you haven't added the Page ID in "
+"\"Appearance => Theme Options => Featured Slider => Featured Page Slider "
+"Options\""
+
+#: ../inc/catchkathmandu-functions.php:1539
+msgid ""
+"You have selected Category Slider but you haven't selected any categories in "
+"\"Appearance => Theme Options => Featured Slider => Featured Category Slider "
+"Options\""
+msgstr ""
+"You have selected Category Slider but you haven't selected any categories in "
+"\"Appearance => Theme Options => Featured Slider => Featured Category Slider "
+"Options\""
+
+#: ../inc/catchkathmandu-functions.php:1547
+msgid ""
+"You have selected Image Slider but you haven't uploaded any image in "
+"\"Appearance => Theme Options => Featured Slider => Featured Image Slider "
+"Options\""
+msgstr ""
+"You have selected Image Slider but you haven't uploaded any image in "
+"\"Appearance => Theme Options => Featured Slider => Featured Image Slider "
+"Options\""
+
+#: ../inc/catchkathmandu-functions.php:1917
+#: ../inc/catchkathmandu-functions.php:1924
+#: ../inc/catchkathmandu-functions.php:1935
+#: ../inc/catchkathmandu-functions.php:1947
+#: ../inc/catchkathmandu-functions.php:2021
+#: ../inc/catchkathmandu-functions.php:2028
+#: ../inc/catchkathmandu-functions.php:2039
+#: ../inc/catchkathmandu-functions.php:2051
+#: ../inc/catchkathmandu-functions.php:2116
+#: ../inc/catchkathmandu-functions.php:2123
+#: ../inc/catchkathmandu-functions.php:2134
+#: ../inc/catchkathmandu-functions.php:2146
+msgid "Permalink to:"
+msgstr ""
+
+#: ../inc/catchkathmandu-functions.php:2426
+#: ../inc/catchkathmandu-functions.php:2430
+#, php-format
+msgid "%1$s on %2$s"
+msgstr "%1$s op %2$s"
+
+#: ../inc/catchkathmandu-functions.php:2496 ../inc/panel/theme-options.php:104
+#: ../inc/panel/theme-options.php:2068
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../inc/catchkathmandu-functions.php:2501 ../inc/panel/theme-options.php:105
+#: ../inc/panel/theme-options.php:2076
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../inc/catchkathmandu-functions.php:2506
+#: ../inc/panel/theme-options.php:2084
+msgid "Google+"
+msgstr "Google+"
+
+#: ../inc/catchkathmandu-functions.php:2511
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../inc/catchkathmandu-functions.php:2516
+#: ../inc/panel/theme-options.php:2092
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../inc/catchkathmandu-functions.php:2521
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ../inc/catchkathmandu-functions.php:2526
+#: ../inc/panel/theme-options.php:2108
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../inc/catchkathmandu-functions.php:2531
+msgid "SlideShare"
+msgstr "SlideShare"
+
+#: ../inc/catchkathmandu-functions.php:2536
+msgid "FourSquare"
+msgstr "FourSquare"
+
+#: ../inc/catchkathmandu-functions.php:2541
+#: ../inc/panel/theme-options.php:2140
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../inc/catchkathmandu-functions.php:2546
+#: ../inc/panel/theme-options.php:2148
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../inc/catchkathmandu-functions.php:2551
+#: ../inc/panel/theme-options.php:2156
+msgid "deviantART"
+msgstr "deviantART"
+
+#: ../inc/catchkathmandu-functions.php:2556
+#: ../inc/panel/theme-options.php:2164
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: ../inc/catchkathmandu-functions.php:2561
+#: ../inc/panel/theme-options.php:2172
+msgid "MySpace"
+msgstr "MySpace"
+
+#: ../inc/catchkathmandu-functions.php:2566
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:295
+#: ../inc/panel/theme-options.php:2180
+msgid "WordPress"
+msgstr "Wordpress"
+
+#: ../inc/catchkathmandu-functions.php:2571
+#: ../inc/panel/theme-options.php:2188
+msgid "RSS"
+msgstr "RSS"
+
+#: ../inc/catchkathmandu-functions.php:2576
+#: ../inc/panel/theme-options.php:2196
+msgid "Delicious"
+msgstr "Delicious"
+
+#: ../inc/catchkathmandu-functions.php:2581
+#: ../inc/panel/theme-options.php:2204
+msgid "Last.fm"
+msgstr "Last.fm"
+
+#: ../inc/catchkathmandu-functions.php:2586
+#: ../inc/panel/theme-options.php:2212
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../inc/catchkathmandu-functions.php:2591
+#: ../inc/panel/theme-options.php:2220
+msgid "GitHub"
+msgstr "GitHub"
+
+#: ../inc/catchkathmandu-functions.php:2596
+#: ../inc/panel/theme-options.php:2228
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+#: ../inc/catchkathmandu-functions.php:2601
+#: ../inc/panel/theme-options.php:2236
+msgid "My World"
+msgstr "My World"
+
+#: ../inc/catchkathmandu-functions.php:2606
+#: ../inc/panel/theme-options.php:2244
+msgid "Odnoklassniki"
+msgstr "Odnoklassniki"
+
+#: ../inc/catchkathmandu-functions.php:2611
+msgid "GoodReads"
+msgstr "GoodReads"
+
+#: ../inc/catchkathmandu-functions.php:2616
+#: ../inc/panel/theme-options.php:2260
+msgid "Skype"
+msgstr "Skype"
+
+#: ../inc/catchkathmandu-functions.php:2621
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: ../inc/catchkathmandu-functions.php:2626
+#: ../inc/panel/theme-options.php:2276
+msgid "Email"
+msgstr "Email"
+
+#: ../inc/catchkathmandu-functions.php:2631
+#: ../inc/panel/theme-options.php:2284
+msgid "Contact"
+msgstr "Contact"
+
+#: ../inc/catchkathmandu-functions.php:2636
+#: ../inc/panel/theme-options.php:2292
+msgid "Xing"
+msgstr "Xing"
+
+#: ../inc/catchkathmandu-functions.php:2641
+#: ../inc/panel/theme-options.php:2300
+msgid "Meetup"
+msgstr "Meetup"
+
+#: ../inc/catchkathmandu-functions.php:2738
+msgid "ID"
+msgstr "ID"
+
+#: ../inc/catchkathmandu-functions.php:2764
+#: ../inc/catchkathmandu-functions.php:2777
+msgid "Menu"
+msgstr "Menu"
+
+#: ../inc/catchkathmandu-menus.php:12
+msgid "Skip to content"
+msgstr "Doorgaan naar inhoud"
+
+#: ../inc/catchkathmandu-metabox.php:14 ../inc/catchkathmandu-metabox.php:20
+msgid "Catch Kathmandu Options"
+msgstr "Catch Kathmandu opties"
+
+#: ../inc/catchkathmandu-metabox.php:34
+msgid "Default"
+msgstr "Standaard"
+
+#: ../inc/catchkathmandu-metabox.php:39
+msgid "Enable"
+msgstr "Inschakelen"
+
+#: ../inc/catchkathmandu-metabox.php:44 ../inc/panel/theme-options.php:200
+#: ../inc/panel/theme-options.php:202 ../inc/panel/theme-options.php:483
+#: ../inc/panel/theme-options.php:1590 ../inc/panel/theme-options.php:1592
+#: ../inc/panel/theme-options.php:1837
+msgid "Disable"
+msgstr "Uitschakelen"
+
+#: ../inc/catchkathmandu-metabox.php:55 ../inc/catchkathmandu-metabox.php:124
+msgid "Default Layout Set in"
+msgstr "Standaard layout geselecteerd in"
+
+#: ../inc/catchkathmandu-metabox.php:55 ../inc/catchkathmandu-metabox.php:124
+#: ../inc/panel/theme-options.php:45 ../inc/panel/theme-options.php:46
+#: ../inc/panel/theme-options.php:115
+msgid "Theme Options"
+msgstr "Thema-opties"
+
+#: ../inc/catchkathmandu-metabox.php:61
+msgid "Right sidebar"
+msgstr "Rechtse sidebar"
+
+#: ../inc/catchkathmandu-metabox.php:67
+msgid "Left sidebar"
+msgstr "Linkse sidebar"
+
+#: ../inc/catchkathmandu-metabox.php:73
+msgid "No sidebar"
+msgstr "Geen sidebar"
+
+#: ../inc/catchkathmandu-metabox.php:79
+msgid "No sidebar, Full Width"
+msgstr "Geen sidebar, volledige breedte"
+
+#: ../inc/catchkathmandu-metabox.php:85 ../inc/panel/theme-options.php:637
+msgid "No Sidebar, One Column"
+msgstr "Geen sidebar, één kolom"
+
+#: ../inc/catchkathmandu-metabox.php:98
+msgid "Default Sidebar"
+msgstr "Standaard sidebar"
+
+#: ../inc/catchkathmandu-metabox.php:103 ../inc/catchkathmandu-widgets.php:96
+msgid "Optional Sidebar One"
+msgstr "Optionele sidebar 1"
+
+#: ../inc/catchkathmandu-metabox.php:108 ../inc/catchkathmandu-widgets.php:107
+msgid "Optional Sidebar Two"
+msgstr "Optionele sidebar 2"
+
+#: ../inc/catchkathmandu-metabox.php:113
+msgid "Optional Sidebar three"
+msgstr "Optionele sidebar 3"
+
+#: ../inc/catchkathmandu-metabox.php:129 ../inc/panel/theme-options.php:501
+#: ../inc/panel/theme-options.php:585
+msgid "Featured Image"
+msgstr "Uitgelichte afbeelding"
+
+#: ../inc/catchkathmandu-metabox.php:134 ../inc/panel/theme-options.php:493
+#: ../inc/panel/theme-options.php:589
+msgid "Full Image"
+msgstr "Volledige afbeelding"
+
+#: ../inc/catchkathmandu-metabox.php:139 ../inc/panel/theme-options.php:497
+#: ../inc/panel/theme-options.php:593
+msgid "Slider Image"
+msgstr "Slider-afbeelding"
+
+#: ../inc/catchkathmandu-metabox.php:144 ../inc/catchkathmandu-widgets.php:637
+#: ../inc/catchkathmandu-widgets.php:819 ../inc/panel/theme-options.php:597
+msgid "Disable Image"
+msgstr "Afbeelding uitschakelen"
+
+#: ../inc/catchkathmandu-metabox.php:161
+msgid "Sidebar Layout"
+msgstr "Sidebar-layout"
+
+#: ../inc/catchkathmandu-metabox.php:191
+msgid "Select Sidebar"
+msgstr "Selecteer sidebar"
+
+#: ../inc/catchkathmandu-metabox.php:218 ../inc/panel/theme-options.php:449
+msgid "Header Featured Image Options"
+msgstr "Opties voor uitgelichte afbeelding in de header"
+
+#: ../inc/catchkathmandu-metabox.php:246 ../inc/panel/theme-options.php:577
+msgid "Content Featured Image Options"
+msgstr "Opties voor uitgelichte afbeelding in berichten"
+
+#: ../inc/catchkathmandu-widgets.php:19
+msgid "Main Sidebar"
+msgstr "Standaard sidebar"
+
+#: ../inc/catchkathmandu-widgets.php:21
+msgid "Shows the Widgets at the side of Content"
+msgstr "Toont de widgets naast de content"
+
+#: ../inc/catchkathmandu-widgets.php:30
+msgid "Header Top Sidebar"
+msgstr "Header bovenkant sidebar"
+
+#: ../inc/catchkathmandu-widgets.php:32
+msgid "Shows the Widgets at the Top of Header"
+msgstr "Toont de widgets aan de bovenkant van de header"
+
+#: ../inc/catchkathmandu-widgets.php:41 ../inc/panel/theme-options.php:436
+msgid "Header Right Sidebar"
+msgstr "Header rechtse zijbalk"
+
+#: ../inc/catchkathmandu-widgets.php:43
+msgid "Shows the Widgets at the Top Right Side of Header"
+msgstr "Toont de widgets rechtsboven de header"
+
+#: ../inc/catchkathmandu-widgets.php:52
+msgid "Optional Homepage Sidebar"
+msgstr "Optionele sidebar voor homepagina"
+
+#: ../inc/catchkathmandu-widgets.php:54
+msgid "This is Optional Sidebar for Homepage"
+msgstr "Dit is de optionele sidebar voor de homepagina"
+
+#: ../inc/catchkathmandu-widgets.php:63
+msgid "Optional Archive Sidebar"
+msgstr "Optionele archief sidebar"
+
+#: ../inc/catchkathmandu-widgets.php:65
+msgid "This is Optional Sidebar for Archive"
+msgstr "Dit is de optionele sidebar voor archieven"
+
+#: ../inc/catchkathmandu-widgets.php:74
+msgid "Optional Page Sidebar"
+msgstr "Optionele pagina sidebar"
+
+#: ../inc/catchkathmandu-widgets.php:76
+msgid "This is Optional Sidebar for Page"
+msgstr "Dit is de optionele sidebar voor pagina's"
+
+#: ../inc/catchkathmandu-widgets.php:85
+msgid "Optional Post Sidebar"
+msgstr "Optionele berichtsidebar"
+
+#: ../inc/catchkathmandu-widgets.php:87
+msgid "This is Optional Sidebar for Post"
+msgstr "Dit is de optionele sidebar voor berichten"
+
+#: ../inc/catchkathmandu-widgets.php:98
+msgid "This is Optional Sidebar One"
+msgstr "Dit is optionele sidebar 1"
+
+#: ../inc/catchkathmandu-widgets.php:109
+msgid "This is Optional Sidebar Two"
+msgstr "Dit is optionele sidebar 2"
+
+#: ../inc/catchkathmandu-widgets.php:118
+msgid "Optional Sidebar Three"
+msgstr "Optionele sidebar 3"
+
+#: ../inc/catchkathmandu-widgets.php:120
+msgid "This is Optional Sidebar Three"
+msgstr "Dit is optionele sidebar 3"
+
+#: ../inc/catchkathmandu-widgets.php:130
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce-sidebar"
+
+#: ../inc/catchkathmandu-widgets.php:132
+msgid "This is Optional WooCommerce Sidebar"
+msgstr "Dit is de optionele WooCommerce-sidebar"
+
+#: ../inc/catchkathmandu-widgets.php:142
+msgid "Footer Area One"
+msgstr "Footerruimte 1"
+
+#: ../inc/catchkathmandu-widgets.php:144 ../inc/catchkathmandu-widgets.php:155
+#: ../inc/catchkathmandu-widgets.php:166 ../inc/catchkathmandu-widgets.php:177
+msgid "An optional widget area for your site footer"
+msgstr "Een optionele widgetruimte voor de footer van uw site"
+
+#: ../inc/catchkathmandu-widgets.php:153
+msgid "Footer Area Two"
+msgstr "Footerruimte 2"
+
+#: ../inc/catchkathmandu-widgets.php:164
+msgid "Footer Area Three"
+msgstr "Footerruimte 3"
+
+#: ../inc/catchkathmandu-widgets.php:175
+msgid "Footer Area Four"
+msgstr "Footerruimte 4"
+
+#: ../inc/catchkathmandu-widgets.php:186
+msgid "404 Page Not Found Content"
+msgstr "Error 404 pagina niet gevonden-tekst"
+
+#: ../inc/catchkathmandu-widgets.php:188
+msgid "Replaces the default 404 Page Not Found Content"
+msgstr "Dit vervangt de standaard Error 404 pagina niet gevonden-tekst"
+
+#: ../inc/catchkathmandu-widgets.php:216
+msgid "CT: Social Widget"
+msgstr ""
+
+#: ../inc/catchkathmandu-widgets.php:217
+msgid ""
+"Use this widget to add Social Icons from Social Icons Settings as a widget."
+msgstr ""
+
+#: ../inc/catchkathmandu-widgets.php:230 ../inc/catchkathmandu-widgets.php:314
+#: ../inc/catchkathmandu-widgets.php:987
+msgid "Title (optional):"
+msgstr "Titel (optioneel):"
+
+#: ../inc/catchkathmandu-widgets.php:295
+msgid "CT: Advertisement"
+msgstr ""
+
+#: ../inc/catchkathmandu-widgets.php:296
+msgid "Use this widget to add any type of Advertisement as a widget."
+msgstr "Gebruik deze widget om advertenties toe te voegen als widget"
+
+#: ../inc/catchkathmandu-widgets.php:319
+msgid "Advertisement Code:"
+msgstr "Advertentiecode:"
+
+#: ../inc/catchkathmandu-widgets.php:325 ../inc/catchkathmandu-widgets.php:453
+#: ../inc/catchkathmandu-widgets.php:998
+msgid "Image Url:"
+msgstr "Afbeeldings-url:"
+
+#: ../inc/catchkathmandu-widgets.php:329 ../inc/catchkathmandu-widgets.php:476
+#: ../inc/catchkathmandu-widgets.php:1002
+msgid "Link URL:"
+msgstr "Link url:"
+
+#: ../inc/catchkathmandu-widgets.php:333 ../inc/catchkathmandu-widgets.php:459
+#: ../inc/catchkathmandu-widgets.php:1006
+msgid "Open Link in New Window"
+msgstr "Open link in nieuw tabblad"
+
+#: ../inc/catchkathmandu-widgets.php:336
+#: ../inc/catchkathmandu-widgets.php:1009
+msgid "Alt text:"
+msgstr "Alt tekst:"
+
+#: ../inc/catchkathmandu-widgets.php:399
+msgid "Add Advertisement Code or Image URL"
+msgstr "Voeg een advertentiecode of afbeeldings-url toe"
+
+#: ../inc/catchkathmandu-widgets.php:424
+msgid "CT: Featured Content"
+msgstr ""
+
+#: ../inc/catchkathmandu-widgets.php:425
+msgid "Use this widget to add Featured Content as a widget."
+msgstr "Gebruik deze widget om uitgelichte berichten toe te voegen als widget"
+
+#: ../inc/catchkathmandu-widgets.php:443
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../inc/catchkathmandu-widgets.php:448
+msgid "Content:"
+msgstr "Inhoud:"
+
+#: ../inc/catchkathmandu-widgets.php:465 ../inc/catchkathmandu-widgets.php:470
+msgid "Show Image Before Title"
+msgstr "Afbeelding voor titel"
+
+#: ../inc/catchkathmandu-widgets.php:466 ../inc/catchkathmandu-widgets.php:471
+msgid "Show Image After Title"
+msgstr "Afbeelding na titel"
+
+#: ../inc/catchkathmandu-widgets.php:603
+msgid "CT: Featured Page"
+msgstr ""
+
+#: ../inc/catchkathmandu-widgets.php:604
+msgid "Use this widget to add Page as a widget."
+msgstr "Gebruik deze widget om een pagina toe te voegen als widget"
+
+#: ../inc/catchkathmandu-widgets.php:620 ../inc/catchkathmandu-widgets.php:802
+msgid "Title (Optional): Add in the Title to replace the Page Title"
+msgstr "Titel (optioneel): voeg een titel toe om de paginatitel te vervangen"
+
+#: ../inc/catchkathmandu-widgets.php:625
+msgid "Page"
+msgstr "Pagina"
+
+#: ../inc/catchkathmandu-widgets.php:631 ../inc/catchkathmandu-widgets.php:813
+msgid "Image:"
+msgstr "Afbeelding:"
+
+#: ../inc/catchkathmandu-widgets.php:633 ../inc/catchkathmandu-widgets.php:815
+msgid "Show Small Image Size"
+msgstr "Toon afbeelding in klein formaat"
+
+#: ../inc/catchkathmandu-widgets.php:634 ../inc/catchkathmandu-widgets.php:816
+msgid "Show Featured Image Size"
+msgstr "Toon grootte uitgelichte afbeelding"
+
+#: ../inc/catchkathmandu-widgets.php:635 ../inc/catchkathmandu-widgets.php:817
+msgid "Show Slider Image Size"
+msgstr "Toon afbeelding slider-grootte"
+
+#: ../inc/catchkathmandu-widgets.php:636 ../inc/catchkathmandu-widgets.php:818
+msgid "Show Full Size Image Size"
+msgstr "Toon afbeelding volledige grootte"
+
+#: ../inc/catchkathmandu-widgets.php:644 ../inc/catchkathmandu-widgets.php:826
+msgid "Move Image After Title?"
+msgstr "Afbeelding na de titel plaatsen?"
+
+#: ../inc/catchkathmandu-widgets.php:785
+msgid "CT: Featured Post"
+msgstr ""
+
+#: ../inc/catchkathmandu-widgets.php:786
+msgid "Use this widget to add Post as a widget."
+msgstr "Gebruik deze widget om een bericht toe te voegen als widget"
+
+#: ../inc/catchkathmandu-widgets.php:807
+msgid "Post ID"
+msgstr "Bericht-ID"
+
+#: ../inc/catchkathmandu-widgets.php:968
+msgid "CT: About Profile"
+msgstr ""
+
+#: ../inc/catchkathmandu-widgets.php:969
+msgid "Use this widget to add About Text with Image."
+msgstr "Gebruik deze widget om \"Over\"-tekst met een afbeelding toe te voegen"
+
+#: ../inc/catchkathmandu-widgets.php:992
+msgid "Short Description:"
+msgstr "Korte beschrijving:"
+
+#. translators: header image description
+#: ../inc/custom-header.php:75
+msgid "Default Logo"
+msgstr "Standaard logo"
+
+#. translators: header image description
+#: ../inc/custom-header.php:81
+msgid "Catch Kathmandu Logo"
+msgstr "Catch Kathmandu logo"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:167
+msgid "Continue Reading &rarr;"
+msgstr "Lees verder &rarr;"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:170
+msgid "Search &hellip;"
+msgstr "Zoeken &hellip;"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:246
+msgid "Copyright"
+msgstr "Copyright"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:246
+msgid "All Rights Reserved"
+msgstr "Alle rechten voorbehouden"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:265
+msgid "Y"
+msgstr "Y"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:286
+msgid "http://catchthemes.com"
+msgstr "http://catchthemes.com"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:286
+#: ../inc/panel/theme-options.php:94 ../inc/panel/theme-options.php:95
+msgid "Catch Themes"
+msgstr "Catch Themes"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:304
+msgid "Catch Kathmandu Pro"
+msgstr "Catch Kathmandu Pro"
+
+#: ../inc/panel/catchkathmandu-theme-options-defaults.php:304
+msgid "Theme: Catch Kathmandu Pro"
+msgstr "Theme: Catch Kathmandu Pro"
+
+#: ../inc/panel/theme-options.php:87
+msgid "Options Saved"
+msgstr "Instellingen opgeslagen"
+
+#: ../inc/panel/theme-options.php:92
+msgid "Theme Options By"
+msgstr "Thema-opties op"
+
+#: ../inc/panel/theme-options.php:94
+msgid "http://catchthemes.com/"
+msgstr "http://catchthemes.com"
+
+#: ../inc/panel/theme-options.php:102
+msgid "http://catchthemes.com/support/"
+msgstr "http://catchthemes.com/support/"
+
+#: ../inc/panel/theme-options.php:102
+msgid "Support"
+msgstr "Support"
+
+#: ../inc/panel/theme-options.php:103
+msgid "http://catchthemes.com/theme-instructions/catch-kathmandu-pro/"
+msgstr "http://catchthemes.com/theme-instructions/catch-kathmandu-pro/"
+
+#: ../inc/panel/theme-options.php:103
+msgid "Theme Instruction"
+msgstr "Thema-instructies"
+
+#: ../inc/panel/theme-options.php:104
+msgid "https://www.facebook.com/catchthemes/"
+msgstr "https://facebook.com/catchthemes"
+
+#: ../inc/panel/theme-options.php:104
+msgid "Like Catch Themes on Facebook"
+msgstr "Vind Cath Themes leuk op Facebook"
+
+#: ../inc/panel/theme-options.php:105
+msgid "https://twitter.com/catchthemes/"
+msgstr "https://twitter.com/catchthemes/"
+
+#: ../inc/panel/theme-options.php:105
+msgid "Follow Catch Themes on Twitter"
+msgstr "Volg Catch Themes op Twitter"
+
+#: ../inc/panel/theme-options.php:106
+msgid "http://wordpress.org/support/view/theme-reviews/catch-kathmandu"
+msgstr "http://wordpress.org/support/view/theme-reviews/catch-kathmandu"
+
+#: ../inc/panel/theme-options.php:106
+msgid "Rate us 5 Star on WordPress"
+msgstr "Geef ons 5 sterren op Wordpress"
+
+#: ../inc/panel/theme-options.php:106
+msgid "5 Star Rating"
+msgstr "5-sterrenwaardering"
+
+#: ../inc/panel/theme-options.php:116
+msgid "Color Options"
+msgstr "Kleuropties"
+
+#: ../inc/panel/theme-options.php:117
+msgid "Featured Content"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:118
+msgid "Featured Slider"
+msgstr "Uitgelichte slider"
+
+#: ../inc/panel/theme-options.php:119
+msgid "Social Links"
+msgstr "Sociale links"
+
+#: ../inc/panel/theme-options.php:120
+msgid "Webmaster Tools"
+msgstr "Webmaster tools"
+
+#: ../inc/panel/theme-options.php:127
+msgid "Homepage / Frontpage Settings"
+msgstr "Homepagina-opties"
+
+#: ../inc/panel/theme-options.php:131
+msgid "Enable Latest Posts?"
+msgstr "Meest recente berichten inschakelen?"
+
+#: ../inc/panel/theme-options.php:135
+msgid "Check to Enable"
+msgstr "Vink aan om in te schakelen"
+
+#: ../inc/panel/theme-options.php:140
+msgid "Add Page instead of Latest Posts"
+msgstr "Voeg een statische pagina toe in plaats van meest recente berichten"
+
+#: ../inc/panel/theme-options.php:143
+msgid "Click Here to Set Static Front Page Instead of Latest Posts"
+msgstr ""
+"Klik hier om een statische homepagina in te stellen in plaats van de recente "
+"berichten weer te geven"
+
+#: ../inc/panel/theme-options.php:148
+msgid "Homepage posts categories:"
+msgstr "Homepagina categorieën voor berichten:"
+
+#: ../inc/panel/theme-options.php:149
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page."
+msgstr ""
+"Alleen berichten die in deze categorieën geplaatst zijn worden op de "
+"homepagina getoond."
+
+#: ../inc/panel/theme-options.php:153 ../inc/panel/theme-options.php:1706
+#: ../inc/panel/theme-options.php:1979
+msgid "--Disabled--"
+msgstr "--Uitgeschakeld--"
+
+#: ../inc/panel/theme-options.php:164 ../inc/panel/theme-options.php:1717
+#: ../inc/panel/theme-options.php:1990
+msgid "You may select multiple categories by holding down the CTRL key."
+msgstr ""
+"Je kunt meerdere categorieën selecteren door de CTRL-toets ingedrukt te "
+"houden"
+
+#: ../inc/panel/theme-options.php:169
+msgid "Move above Homepage Featured Content?"
+msgstr "Verplaatsen naar boven de uitgelichte content?"
+
+#: ../inc/panel/theme-options.php:173
+msgid "Check to Move"
+msgstr "Vink aan om te verplaatsen"
+
+#: ../inc/panel/theme-options.php:177 ../inc/panel/theme-options.php:280
+#: ../inc/panel/theme-options.php:307 ../inc/panel/theme-options.php:352
+#: ../inc/panel/theme-options.php:400 ../inc/panel/theme-options.php:443
+#: ../inc/panel/theme-options.php:571 ../inc/panel/theme-options.php:602
+#: ../inc/panel/theme-options.php:666 ../inc/panel/theme-options.php:768
+#: ../inc/panel/theme-options.php:785 ../inc/panel/theme-options.php:820
+#: ../inc/panel/theme-options.php:837 ../inc/panel/theme-options.php:874
+#: ../inc/panel/theme-options.php:912 ../inc/panel/theme-options.php:937
+#: ../inc/panel/theme-options.php:955 ../inc/panel/theme-options.php:973
+#: ../inc/panel/theme-options.php:1002 ../inc/panel/theme-options.php:1176
+#: ../inc/panel/theme-options.php:1236 ../inc/panel/theme-options.php:1304
+#: ../inc/panel/theme-options.php:1388 ../inc/panel/theme-options.php:1541
+#: ../inc/panel/theme-options.php:1634 ../inc/panel/theme-options.php:1656
+#: ../inc/panel/theme-options.php:1691 ../inc/panel/theme-options.php:1722
+#: ../inc/panel/theme-options.php:1780 ../inc/panel/theme-options.php:1888
+#: ../inc/panel/theme-options.php:1925 ../inc/panel/theme-options.php:1964
+#: ../inc/panel/theme-options.php:1997 ../inc/panel/theme-options.php:2053
+#: ../inc/panel/theme-options.php:2307 ../inc/panel/theme-options.php:2363
+#: ../inc/panel/theme-options.php:2401 ../inc/panel/theme-options.php:2426
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: ../inc/panel/theme-options.php:183
+msgid "Promotion Headline Options"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:187
+msgid "Enable Promotion Headline on"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:190 ../inc/panel/theme-options.php:192
+msgid "Homepage/Frontpage"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:195 ../inc/panel/theme-options.php:197
+#: ../inc/panel/theme-options.php:468 ../inc/panel/theme-options.php:1585
+#: ../inc/panel/theme-options.php:1587 ../inc/panel/theme-options.php:1833
+msgid "Entire Site"
+msgstr "Gehele site"
+
+#: ../inc/panel/theme-options.php:209
+msgid "Promotion Headline Text"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:210
+msgid "The appropriate length for Headine is around 10 words."
+msgstr "De geschikte lengte voor de titel is ongeveer 10 woorden."
+
+#: ../inc/panel/theme-options.php:218
+msgid "Promotion Subheadline Text"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:219
+msgid "The appropriate length for Headine is around 15 words."
+msgstr "De geschikte lengte voor een ondertitel is ongeveer 15 woorden."
+
+#: ../inc/panel/theme-options.php:227
+msgid "Promotion Headline Button Text"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:228
+msgid "The appropriate length for Headine is around 3 words."
+msgstr "De geschikte lengte voor de tekst op de knop is ongeveer 3 woorden."
+
+#: ../inc/panel/theme-options.php:236
+msgid "Promotion Headline Link"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:245
+msgid "Target. Open Link in New Window? "
+msgstr "Openen in nieuw tabblad?"
+
+#: ../inc/panel/theme-options.php:249 ../inc/panel/theme-options.php:557
+#: ../inc/panel/theme-options.php:1756 ../inc/panel/theme-options.php:2031
+msgid "Check to open in new window"
+msgstr "Vink aan om te openen in een nieuw venster"
+
+#: ../inc/panel/theme-options.php:254
+msgid "Disable Promotion Headline?"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:258 ../inc/panel/theme-options.php:267
+#: ../inc/panel/theme-options.php:276 ../inc/panel/theme-options.php:294
+#: ../inc/panel/theme-options.php:321 ../inc/panel/theme-options.php:366
+#: ../inc/panel/theme-options.php:869 ../inc/panel/theme-options.php:951
+#: ../inc/panel/theme-options.php:969
+msgid "Check to disable"
+msgstr "Vink aan om uit te schakelen"
+
+#: ../inc/panel/theme-options.php:263
+msgid "Disable Promotion Subheadline?"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:272
+msgid "Disable Promotion Headline Button?"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:286
+msgid "Responsive Design"
+msgstr "Responsive design"
+
+#: ../inc/panel/theme-options.php:290
+msgid "Disable Responsive Design?"
+msgstr "Responsive design uitschakelen?"
+
+#: ../inc/panel/theme-options.php:299
+msgid "Enable Secondary & Footer Menu in Mobile Devices?"
+msgstr "Alternatief menu en footermenu inschakelen op mobiele apparaten?"
+
+#: ../inc/panel/theme-options.php:303
+msgid "Check to enable"
+msgstr "Vink aan om in te schakelen"
+
+#: ../inc/panel/theme-options.php:313
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../inc/panel/theme-options.php:317
+msgid "Disable Favicon?"
+msgstr "Favicon uitschakelen?"
+
+#: ../inc/panel/theme-options.php:326
+msgid "Fav Icon URL:"
+msgstr "Favicon URL:"
+
+#: ../inc/panel/theme-options.php:334
+msgid "Insert as Fav Icon"
+msgstr "Insert as Fav Icon"
+
+#: ../inc/panel/theme-options.php:334
+msgid "Change Fav Icon"
+msgstr "Verander Favicon"
+
+#: ../inc/panel/theme-options.php:339 ../inc/panel/theme-options.php:384
+msgid "Preview"
+msgstr "Preview"
+
+#: ../inc/panel/theme-options.php:358
+msgid "Web Clip Icon Options"
+msgstr "Opties voor Web Clip Icon"
+
+#: ../inc/panel/theme-options.php:362
+msgid "Disable Web Clip Icon?"
+msgstr "Web Clip Icon uitschakelen?"
+
+#: ../inc/panel/theme-options.php:371
+msgid "Web Clip Icon URL:"
+msgstr "Web Clip URL:"
+
+#: ../inc/panel/theme-options.php:379
+msgid "Insert as Web Clip Icon"
+msgstr "Insert as Web Clip Icon"
+
+#: ../inc/panel/theme-options.php:379
+msgid "Change Web Clip Icon"
+msgstr "Verander Web Clip Icon"
+
+#: ../inc/panel/theme-options.php:397
+msgid ""
+"Note: Web Clip Icon for Apple devices. Recommended Size - Width 144px and "
+"Height 144px height, which will support High Resolution Devices like iPad "
+"Retina."
+msgstr ""
+"Web Clip Icon voor Apple-apparaten. Aangeraden grootte: 144px bij 144px, "
+"zodat ook iPad Retina en andere apparaten met een hoge resolutie ondersteund "
+"worden."
+
+#: ../inc/panel/theme-options.php:406
+msgid "Header Options"
+msgstr "Header-opties"
+
+#: ../inc/panel/theme-options.php:410
+msgid "Custom Header: Logo & Site Details"
+msgstr "Aangepaste header: logo & site details"
+
+#: ../inc/panel/theme-options.php:413
+msgid "Click Here to Add/Replace Header Logo & Site Details"
+msgstr "Klik hier om een header-logo & site details toe te voegen/te vervangen"
+
+#: ../inc/panel/theme-options.php:418
+msgid "Move Site Title & Description"
+msgstr "Site-titel en -beschrijving verplaatsen"
+
+#: ../inc/panel/theme-options.php:422
+msgid "Check to move before Logo"
+msgstr "Vink aan om voor het logo te plaatsen"
+
+#: ../inc/panel/theme-options.php:427
+msgid "Disable Header Right Sidebar?"
+msgstr "Header rechter sidebar uitschakelen?"
+
+#: ../inc/panel/theme-options.php:431
+msgid "Check to Disable"
+msgstr "Vink aan om uit te schakelen"
+
+#: ../inc/panel/theme-options.php:439
+msgid "Widgets"
+msgstr "Widgets"
+
+#: ../inc/panel/theme-options.php:439
+msgid "Click Here to Add/Replace Widgets"
+msgstr "Klik hier om widgets toe te voegen/te wijzigen"
+
+#: ../inc/panel/theme-options.php:453
+msgid "Enable Featured Header Image"
+msgstr "Schakel uitgelichte afbeeldingen header in"
+
+#: ../inc/panel/theme-options.php:458 ../inc/panel/theme-options.php:1580
+#: ../inc/panel/theme-options.php:1582 ../inc/panel/theme-options.php:1829
+msgid "Homepage"
+msgstr "Homepagina"
+
+#: ../inc/panel/theme-options.php:463
+msgid "Excluding Homepage"
+msgstr "Homepagina uitgezonderd"
+
+#: ../inc/panel/theme-options.php:473
+msgid "Entire Site, Page/Post Featured Image"
+msgstr "Gehele site, uitgelichte afbeeldingen van pagina/bericht"
+
+#: ../inc/panel/theme-options.php:478
+msgid "Pages & Posts"
+msgstr "Pagina's en berichten"
+
+#: ../inc/panel/theme-options.php:489
+msgid "Page/Post Featured Image Size"
+msgstr "Grootte uitgelichte afbeelding pagina/berichten"
+
+#: ../inc/panel/theme-options.php:507
+msgid "Featured HeaderImage Position"
+msgstr "Positie uitgelichte headerafbeelding"
+
+#: ../inc/panel/theme-options.php:511
+msgid "Before Menu"
+msgstr "Voor menu"
+
+#: ../inc/panel/theme-options.php:515
+msgid "After Menu"
+msgstr "Na menu"
+
+#: ../inc/panel/theme-options.php:519
+msgid "Before Header"
+msgstr "Voor header"
+
+#: ../inc/panel/theme-options.php:523
+msgid "After Top Sidebar"
+msgstr "Na bovenste sidebar"
+
+#: ../inc/panel/theme-options.php:529
+msgid "Featured Header Image URL"
+msgstr "Header uitgelichte afbeelding URL:"
+
+#: ../inc/panel/theme-options.php:532
+msgid "Insert as Featured Header Image"
+msgstr "Insert as Featured Header Image"
+
+#: ../inc/panel/theme-options.php:532 ../inc/panel/theme-options.php:1739
+#: ../inc/panel/theme-options.php:2340 ../inc/panel/theme-options.php:2349
+msgid "Change Image"
+msgstr "Verander afbeelding"
+
+#: ../inc/panel/theme-options.php:537
+msgid "Featured Header Image Alt/Title Tag"
+msgstr "Header uitgelichte afbeelding alt/title tag"
+
+#: ../inc/panel/theme-options.php:545
+msgid "Featured Header Image Link URL"
+msgstr "Header uitgelichte afbeelding link URL:"
+
+#: ../inc/panel/theme-options.php:553 ../inc/panel/theme-options.php:1752
+#: ../inc/panel/theme-options.php:2027
+msgid "Target. Open Link in New Window?"
+msgstr "Open in een nieuw venster?"
+
+#: ../inc/panel/theme-options.php:563
+msgid "Reset Header Featured Image Options?"
+msgstr "Reset opties voor header uitgelichte afbeeldingen?"
+
+#: ../inc/panel/theme-options.php:567 ../inc/panel/theme-options.php:662
+#: ../inc/panel/theme-options.php:764 ../inc/panel/theme-options.php:816
+#: ../inc/panel/theme-options.php:908 ../inc/panel/theme-options.php:1172
+#: ../inc/panel/theme-options.php:1232 ../inc/panel/theme-options.php:1300
+#: ../inc/panel/theme-options.php:1384 ../inc/panel/theme-options.php:1537
+msgid "Check to reset"
+msgstr "Vink aan om te resetten"
+
+#: ../inc/panel/theme-options.php:581
+msgid "Content Featured Image Size"
+msgstr "Content uitgelichte afbeelding grootte"
+
+#: ../inc/panel/theme-options.php:608
+msgid "Layout Options"
+msgstr "Layout-opties"
+
+#: ../inc/panel/theme-options.php:612
+msgid "Sidebar Layout Options"
+msgstr "Sidebar layout-opties"
+
+#: ../inc/panel/theme-options.php:617
+msgid "Right Sidebar"
+msgstr "Rechter sidebar"
+
+#: ../inc/panel/theme-options.php:622
+msgid "Left Sidebar"
+msgstr "Linker sidebar"
+
+#: ../inc/panel/theme-options.php:627
+msgid "No Sidebar"
+msgstr "Geen sidebar"
+
+#: ../inc/panel/theme-options.php:632
+msgid "No Sidebar, Full Width"
+msgstr "Geen sidebar, volledige breedte"
+
+#: ../inc/panel/theme-options.php:643
+msgid "Content Layout"
+msgstr "Content layout"
+
+#: ../inc/panel/theme-options.php:647
+msgid "Full Content Display"
+msgstr "Volledige content-weergave"
+
+#: ../inc/panel/theme-options.php:651
+msgid "Excerpt/Blog Display"
+msgstr "Blog-weergave"
+
+#: ../inc/panel/theme-options.php:658
+msgid "Reset Layout?"
+msgstr "Layout resetten?"
+
+#: ../inc/panel/theme-options.php:683
+msgid "Font Family Options"
+msgstr "Font family-opties"
+
+#: ../inc/panel/theme-options.php:687
+msgid "Default Font Family"
+msgstr "Standaard font family"
+
+#: ../inc/panel/theme-options.php:699
+msgid "Site Title Font Family"
+msgstr "Font family site-titel"
+
+#: ../inc/panel/theme-options.php:711
+msgid "Site Tagline Font Family"
+msgstr "Font family site tagline"
+
+#: ../inc/panel/theme-options.php:723
+msgid "Content Title Font Family"
+msgstr "Font family berichtentitel"
+
+#: ../inc/panel/theme-options.php:735
+msgid "Content Body Font Family"
+msgstr "Font family berichten"
+
+#: ../inc/panel/theme-options.php:747
+msgid "Headings Tags from h1 to h6 Font Family"
+msgstr "Font family H1-H6 headings"
+
+#: ../inc/panel/theme-options.php:760
+msgid "Reset Fonts?"
+msgstr "Fonts resetten?"
+
+#: ../inc/panel/theme-options.php:774
+msgid "Search Text Settings"
+msgstr "Zoeken-tekstinstellingen"
+
+#: ../inc/panel/theme-options.php:778
+msgid "Default Display Text in Search"
+msgstr "Standaard tekst in Zoek-balk"
+
+#: ../inc/panel/theme-options.php:791
+msgid "Excerpt / More Tag Settings"
+msgstr "Afbreken/meer-tag opties"
+
+#: ../inc/panel/theme-options.php:795
+msgid "More Tag Text"
+msgstr "Meer-tag tekst"
+
+#: ../inc/panel/theme-options.php:803
+msgid "Excerpt length(words)"
+msgstr "Afbreken na ... woorden"
+
+#: ../inc/panel/theme-options.php:812
+msgid "Reset Excerpt?"
+msgstr "Afbreekaantal resetten?"
+
+#: ../inc/panel/theme-options.php:826
+msgid "Feed Redirect"
+msgstr "Feed redirect"
+
+#: ../inc/panel/theme-options.php:830
+msgid "Feed Redirect URL"
+msgstr "Feed redirect UR:"
+
+#: ../inc/panel/theme-options.php:833
+msgid "Add in the Feedburner URL"
+msgstr "Voeg toe aan de Feedburner URL"
+
+#: ../inc/panel/theme-options.php:843
+msgid "Comments Options"
+msgstr "Opties voor reacties"
+
+#: ../inc/panel/theme-options.php:847
+msgid "Disable Comment?"
+msgstr "Reacties uitschakelen?"
+
+#: ../inc/panel/theme-options.php:851
+msgid "Use WordPress Settings"
+msgstr "Gebruik WordPress-instellingen"
+
+#: ../inc/panel/theme-options.php:855
+msgid "Disable in Pages"
+msgstr "Uitschakelen op pagina's"
+
+#: ../inc/panel/theme-options.php:859
+msgid "Disable Completely"
+msgstr "Helemaal uitschakelen"
+
+#: ../inc/panel/theme-options.php:865
+msgid "Disable Website Field?"
+msgstr "Disable Website Field?"
+
+#: ../inc/panel/theme-options.php:880
+msgid "Footer Editor Option"
+msgstr "Footer aanpassen"
+
+#: ../inc/panel/theme-options.php:884
+msgid "Footer Editor"
+msgstr "Footer editor"
+
+#: ../inc/panel/theme-options.php:886
+msgid ""
+"You can add custom <acronym title=\"Hypertext Markup Language\">HTML</"
+"acronym> and/or shortcodes, which will be automatically inserted into your "
+"theme.<br />Some shorcodes: [the-year], [site-link], [wp-link], [shop-link]  "
+"for current year, your site link, wordpress site link, Catch Themes shop "
+"link respectively."
+msgstr ""
+"Je kunt eigen <acronym title=\"Hypertext Markup Language\">HTML</acronym> en "
+"shortcodes toevoegen. <br />Een aantal shortcodes: [footer-image], [the-"
+"year], [site-link], [wp-link] voor respectievelijk de footerafbeelding, het "
+"huidige jaar, de link naar de site en een link naar WordPress."
+
+#: ../inc/panel/theme-options.php:904
+msgid "Reset Footer?"
+msgstr "Footer resetten?"
+
+#: ../inc/panel/theme-options.php:918
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: ../inc/panel/theme-options.php:922
+msgid "Enter your custom CSS styles."
+msgstr "Voer je eigen CSS in."
+
+#: ../inc/panel/theme-options.php:930
+msgid "CSS Tutorial from W3Schools."
+msgstr "CSS tutorial van W3Schools."
+
+#: ../inc/panel/theme-options.php:933
+msgid "http://www.w3schools.com/css/default.asp"
+msgstr "http://www.w3schools.com/css/default.asp"
+
+#: ../inc/panel/theme-options.php:933
+msgid "CSS Tutorial"
+msgstr "CSS tutorial"
+
+#: ../inc/panel/theme-options.php:933
+msgid "Click Here to Read"
+msgstr "Klik hier om te lezen"
+
+#: ../inc/panel/theme-options.php:943
+msgid "Scroll Up"
+msgstr "Terug naar boven"
+
+#: ../inc/panel/theme-options.php:947
+msgid "Disable Scroll Up?"
+msgstr "Terug naar boven-knop uitschakelen?"
+
+#: ../inc/panel/theme-options.php:961
+msgid "Update Notifier"
+msgstr "Updatemeldingen"
+
+#: ../inc/panel/theme-options.php:965
+msgid "Disable Update Notifier?"
+msgstr "Updatemeldingen uitschakelen?"
+
+#: ../inc/panel/theme-options.php:984
+msgid "Color Scheme"
+msgstr "Kleurschema"
+
+#: ../inc/panel/theme-options.php:988
+msgid "Default Color Scheme"
+msgstr "Standaard kleurschema"
+
+#: ../inc/panel/theme-options.php:993
+msgid "Light"
+msgstr "Licht"
+
+#: ../inc/panel/theme-options.php:997
+msgid "Dark"
+msgstr "Donker"
+
+#: ../inc/panel/theme-options.php:1008
+msgid "Menus Color Options"
+msgstr "Kleurenopties menu's"
+
+#: ../inc/panel/theme-options.php:1011
+msgid "Primary Menu Color Options"
+msgstr "Kleuropties voor hoofdmenu"
+
+#: ../inc/panel/theme-options.php:1014 ../inc/panel/theme-options.php:1066
+#: ../inc/panel/theme-options.php:1118
+msgid "Menu Background Color:"
+msgstr "Achtergrondkleur voor menu"
+
+#: ../inc/panel/theme-options.php:1022 ../inc/panel/theme-options.php:1074
+#: ../inc/panel/theme-options.php:1126
+msgid "Menu Text Color:"
+msgstr "Tekstkleur voor menu"
+
+#: ../inc/panel/theme-options.php:1030 ../inc/panel/theme-options.php:1082
+#: ../inc/panel/theme-options.php:1134
+msgid "Menu Hover & Active Background Color:"
+msgstr "Kleur van achtergrond in menu bij hover (muis erover)"
+
+#: ../inc/panel/theme-options.php:1038 ../inc/panel/theme-options.php:1090
+#: ../inc/panel/theme-options.php:1142
+msgid "Menu Hover & Active Text Color:"
+msgstr "Tekstkleur van link in menu bij hover"
+
+#: ../inc/panel/theme-options.php:1046 ../inc/panel/theme-options.php:1098
+#: ../inc/panel/theme-options.php:1150
+msgid "Sub-Menu Background Color:"
+msgstr "Achtergrondkleur submenu"
+
+#: ../inc/panel/theme-options.php:1054 ../inc/panel/theme-options.php:1106
+#: ../inc/panel/theme-options.php:1158
+msgid "Sub-Menu Text Color:"
+msgstr "Tekstkleur submenu"
+
+#: ../inc/panel/theme-options.php:1063
+msgid "Secondary Menu Color Options"
+msgstr "Kleuropties alternatief menu"
+
+#: ../inc/panel/theme-options.php:1115
+msgid "Footer Menu Color Options"
+msgstr "Kleuropties footermenu"
+
+#: ../inc/panel/theme-options.php:1168
+msgid "Reset Menu Color?"
+msgstr "Menukleur resetten?"
+
+#: ../inc/panel/theme-options.php:1183
+msgid "Pagination Color Options"
+msgstr "Kleuropties paginering"
+
+#: ../inc/panel/theme-options.php:1187
+msgid "Pages Color:"
+msgstr "Paginakleur:"
+
+#: ../inc/panel/theme-options.php:1195
+msgid "Pages Box Background Color:"
+msgstr "Paginaknoppen achtergrondkleur:"
+
+#: ../inc/panel/theme-options.php:1203
+msgid "Pages Box Text Color:"
+msgstr "Paginaknoppen tekstkleur:"
+
+#: ../inc/panel/theme-options.php:1211
+msgid "Pages Box Hover/Active Background Color:"
+msgstr "Paginaknoppen achtergrondkleur bij hover:"
+
+#: ../inc/panel/theme-options.php:1219
+msgid "Pages Box Hover/Active Text Color:"
+msgstr "Paginaknoppen tekstkleur bij hover:"
+
+#: ../inc/panel/theme-options.php:1228
+msgid "Reset Pagination Color?"
+msgstr "Pagineringskleur resetten?"
+
+#: ../inc/panel/theme-options.php:1243
+msgid "Slider Color Options"
+msgstr "Kleuropties slider"
+
+#: ../inc/panel/theme-options.php:1247
+msgid "Slider Background Color:"
+msgstr "Achtergrondkleur slider:"
+
+#: ../inc/panel/theme-options.php:1255
+msgid "Slider Border Bottom Color:"
+msgstr "Randkleur onderkant slider:"
+
+#: ../inc/panel/theme-options.php:1263
+msgid "Slider Controller Background Color:"
+msgstr "Achtergrondkleur controller in slider:"
+
+#: ../inc/panel/theme-options.php:1271
+msgid "Slider Controller Arrow Color:"
+msgstr "Pijlkleur controller in slider:"
+
+#: ../inc/panel/theme-options.php:1279
+msgid "Slider Content Background Color:"
+msgstr "Achtergrondkleur korte tekst in slider:"
+
+#: ../inc/panel/theme-options.php:1287
+msgid "Slider Content Text Color:"
+msgstr "Tekstkleur korte tekst in slider:"
+
+#: ../inc/panel/theme-options.php:1296
+msgid "Reset Slider Color?"
+msgstr "Sliderkleur resetten?"
+
+#: ../inc/panel/theme-options.php:1310
+msgid "Homepage Headline Color Options"
+msgstr "Homepagina headline kleuropties"
+
+#: ../inc/panel/theme-options.php:1314
+msgid "Background Color:"
+msgstr "Achtergrondkleur:"
+
+#: ../inc/panel/theme-options.php:1322 ../inc/panel/theme-options.php:1475
+msgid "Text Color:"
+msgstr "Tekstkleur:"
+
+#: ../inc/panel/theme-options.php:1330
+msgid "Border Bottom Color:"
+msgstr "Randkleur onderkant:"
+
+#: ../inc/panel/theme-options.php:1338
+msgid "Button Background Color:"
+msgstr "Achtergrondkleur knop:"
+
+#: ../inc/panel/theme-options.php:1346
+msgid "Button Text Color:"
+msgstr "Tekstkleur knop:"
+
+#: ../inc/panel/theme-options.php:1355
+msgid "Button Hover Background Color:"
+msgstr "Achtergrondkleur knop bij hover:"
+
+#: ../inc/panel/theme-options.php:1363
+msgid "Button Hover Text Color:"
+msgstr "Tekstkleur knop bij hover:"
+
+#: ../inc/panel/theme-options.php:1371
+msgid "Button Border Color:"
+msgstr "Randkleur knop:"
+
+#: ../inc/panel/theme-options.php:1380
+msgid "Reset Homepage Headline Color?"
+msgstr "Homepagina headline kleuren resetten?"
+
+#: ../inc/panel/theme-options.php:1395
+msgid "Site Color Options"
+msgstr "Kleuropties site"
+
+#: ../inc/panel/theme-options.php:1399
+msgid "Custom Background Color:"
+msgstr "Aangepaste achtergrondkleur:"
+
+#: ../inc/panel/theme-options.php:1403
+msgid "Click Here to change Background Color/Image"
+msgstr "Klik hier om de achtergrondkleur/-afbeelding te wijzigen"
+
+#: ../inc/panel/theme-options.php:1409
+msgid "Header Background Color:"
+msgstr "Achtergrondkleur header:"
+
+#: ../inc/panel/theme-options.php:1417
+msgid "Content Background Color:"
+msgstr "Achtergrondkleur berichten:"
+
+#: ../inc/panel/theme-options.php:1425
+msgid "Footer Background Sidebar Color: "
+msgstr "Achtergrondkleur footer sidebar:"
+
+#: ../inc/panel/theme-options.php:1433
+msgid "Footer Background Color: "
+msgstr "Achtergrondkleur footer:"
+
+#: ../inc/panel/theme-options.php:1441
+msgid "Custom Header: "
+msgstr "Aangepaste header:"
+
+#: ../inc/panel/theme-options.php:1445
+msgid "Click Here to change Site Title and Tagline Color"
+msgstr "Klik hier om de title- en taglinekleur te veranderen"
+
+#: ../inc/panel/theme-options.php:1451
+msgid "Title Color:"
+msgstr "Titelkleur:"
+
+#: ../inc/panel/theme-options.php:1459
+msgid "Title Hover Color:"
+msgstr "Titelkleur bij hover:"
+
+#: ../inc/panel/theme-options.php:1467
+msgid "Meta Description Color:"
+msgstr "Kleur metabeschrijving:"
+
+#: ../inc/panel/theme-options.php:1483
+msgid "Link Color:"
+msgstr "Linkkleur:"
+
+#: ../inc/panel/theme-options.php:1491
+msgid "Sidebar Widget Title Color:"
+msgstr "Kleur titel widgets in sidebar:"
+
+#: ../inc/panel/theme-options.php:1499
+msgid "Sidebar Widget Text Color:"
+msgstr "Tekstkleur widgets in sidebar:"
+
+#: ../inc/panel/theme-options.php:1507
+msgid "Sidebar Widget Link Color:"
+msgstr "Linkkleur widgets in sidebar:"
+
+#: ../inc/panel/theme-options.php:1515
+msgid "Scroll Up Background Color:"
+msgstr "Achtergrondkleur \"Naar boven\"-knop:"
+
+#: ../inc/panel/theme-options.php:1523
+msgid "Scroll Up Text Color:"
+msgstr "Tekstkleur \"Naar boven\"-knop:"
+
+#: ../inc/panel/theme-options.php:1533
+msgid "Reset Site Color?"
+msgstr "Sitekleuren resetten?"
+
+#: ../inc/panel/theme-options.php:1551
+msgid "Featured Content Options"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1555
+msgid "Select Content Type"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1560
+msgid "Demo Content"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1561
+msgid "Post Content"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1562
+msgid "Page Content"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1563
+msgid "Category Content"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1564
+msgid "Image Content"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1577
+msgid "Enable Content"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1599
+msgid "Headline"
+msgstr "Headline"
+
+#: ../inc/panel/theme-options.php:1602
+msgid "Leave empty if you want to remove headline"
+msgstr "Laat leeg als je de headline wilt weghalen"
+
+#: ../inc/panel/theme-options.php:1608
+msgid "Number of Featured Content"
+msgstr "Aantal uitgelichte berichten"
+
+#: ../inc/panel/theme-options.php:1617
+msgid "Featured Content Layout"
+msgstr "Layout uitgelichte content"
+
+#: ../inc/panel/theme-options.php:1622
+msgid "3 Columns"
+msgstr "3 kolommen"
+
+#: ../inc/panel/theme-options.php:1627
+msgid "4 Columns"
+msgstr "4 kolommen"
+
+#: ../inc/panel/theme-options.php:1639
+msgid "Featured Post Content Options"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1644
+#, php-format
+msgid "Featured Post Content #%s"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1649 ../inc/panel/theme-options.php:1684
+#: ../inc/panel/theme-options.php:1915 ../inc/panel/theme-options.php:1954
+msgid "Click Here To Edit"
+msgstr "Klik hier om te bewerken"
+
+#: ../inc/panel/theme-options.php:1662
+msgid "Featured Page Content Options"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1667
+#, php-format
+msgid "Featured Page Content #%s"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1697
+msgid "Featured Category Content Options"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1701
+msgid "Select Featured Content Categories"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1702
+msgid ""
+"Use this only is you want to display posts from Specific Categories in "
+"Featured Content"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1728
+msgid "Featured Image Content Options"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1732
+#, php-format
+msgid "Featured Image Content #%s"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1739
+#, php-format
+msgid "Insert as Featured Content Image #%s"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:1739 ../inc/panel/theme-options.php:2340
+#: ../inc/panel/theme-options.php:2349
+msgid "Add Image"
+msgstr "Afbeelding toevoegen"
+
+#: ../inc/panel/theme-options.php:1744 ../inc/panel/theme-options.php:2019
+msgid "Link URL"
+msgstr "Link URL"
+
+#: ../inc/panel/theme-options.php:1747
+msgid "Add in the Target URL for the content"
+msgstr "Voeg de link toe aan dit bericht"
+
+#: ../inc/panel/theme-options.php:1761 ../inc/panel/theme-options.php:2036
+msgid "Title"
+msgstr "Titel"
+
+#: ../inc/panel/theme-options.php:1764
+msgid "Leave empty if you want to remove title"
+msgstr "Laat leeg als je de titel wilt weghalen"
+
+#: ../inc/panel/theme-options.php:1769 ../inc/panel/theme-options.php:2044
+msgid "Content"
+msgstr "Korte beschrijving"
+
+#: ../inc/panel/theme-options.php:1770
+msgid "The appropriate length for Content is around 10 words."
+msgstr "De geschikte lengte voor de beschrijving is ongeveer 10 woorden"
+
+#: ../inc/panel/theme-options.php:1789
+msgid "Slider Options"
+msgstr "Slider-opties"
+
+#: ../inc/panel/theme-options.php:1793
+msgid "Select Slider Type"
+msgstr "Selecteer slidertype"
+
+#: ../inc/panel/theme-options.php:1798
+msgid "Demo Slider"
+msgstr "Demo Slider"
+
+#: ../inc/panel/theme-options.php:1803
+msgid "Post Slider"
+msgstr "Berichtenslider"
+
+#: ../inc/panel/theme-options.php:1808
+msgid "Page Slider"
+msgstr "Paginaslider"
+
+#: ../inc/panel/theme-options.php:1813
+msgid "Category Slider"
+msgstr "Categorieslider"
+
+#: ../inc/panel/theme-options.php:1818
+msgid "Image Slider"
+msgstr "Afbeeldingsslider"
+
+#: ../inc/panel/theme-options.php:1824
+msgid "Enable Slider"
+msgstr "Slider inschakelen"
+
+#: ../inc/panel/theme-options.php:1843
+msgid "Number of Slides"
+msgstr "Aantal slides"
+
+#: ../inc/panel/theme-options.php:1851
+msgid "Transition Effect:"
+msgstr "Overgangseffect:"
+
+#: ../inc/panel/theme-options.php:1855
+msgid "fade"
+msgstr "vervagen"
+
+#: ../inc/panel/theme-options.php:1856
+msgid "wipe"
+msgstr "vegen"
+
+#: ../inc/panel/theme-options.php:1857
+msgid "scrollUp"
+msgstr "scrollen omhoog"
+
+#: ../inc/panel/theme-options.php:1858
+msgid "scrollDown"
+msgstr "scrollen omlaag"
+
+#: ../inc/panel/theme-options.php:1859
+msgid "scrollLeft"
+msgstr "scrollen links"
+
+#: ../inc/panel/theme-options.php:1860
+msgid "scrollRight"
+msgstr "scrollen rechts"
+
+#: ../inc/panel/theme-options.php:1861
+msgid "blindX"
+msgstr "blinderen X"
+
+#: ../inc/panel/theme-options.php:1862
+msgid "blindY"
+msgstr "blinderen Y"
+
+#: ../inc/panel/theme-options.php:1863
+msgid "blindZ"
+msgstr "blinderen Z"
+
+#: ../inc/panel/theme-options.php:1864
+msgid "cover"
+msgstr "bedekken"
+
+#: ../inc/panel/theme-options.php:1865
+msgid "shuffle"
+msgstr "willekeurig"
+
+#: ../inc/panel/theme-options.php:1871
+msgid "Transition Delay"
+msgstr "Overgangstijd"
+
+#: ../inc/panel/theme-options.php:1875 ../inc/panel/theme-options.php:1884
+msgid "second(s)"
+msgstr "seconde(n)"
+
+#: ../inc/panel/theme-options.php:1880
+msgid "Transition Length"
+msgstr "Duur van overgang"
+
+#: ../inc/panel/theme-options.php:1895
+msgid "Featured Post Slider Options"
+msgstr "Uitgelichte berichten-slider opties"
+
+#: ../inc/panel/theme-options.php:1899
+msgid "Exclude Slider post from Homepage posts?"
+msgstr "Posts in de slider niet meer weergeven op de homepagina?"
+
+#: ../inc/panel/theme-options.php:1903
+msgid "Check to exclude"
+msgstr ""
+"Klik aan om de posts in de slider niet meer weer te geven bij de recente "
+"berichten"
+
+#: ../inc/panel/theme-options.php:1910
+#, php-format
+msgid "Featured Post Slider #%s"
+msgstr "Uitgelicht bericht #%s"
+
+#: ../inc/panel/theme-options.php:1922
+msgid ""
+"Note: Here You can put your Post IDs which displays on Homepage as slider."
+msgstr ""
+"Hier kun je de ID's van de berichten die in de slider moeten komen "
+"neerzetten."
+
+#: ../inc/panel/theme-options.php:1931
+msgid "Featured Page Slider Options"
+msgstr "Uitgelichte pagina-slider opties"
+
+#: ../inc/panel/theme-options.php:1937
+#, php-format
+msgid "Featured Page Slider #%s"
+msgstr "Uitgelichte diashow pagina #%s"
+
+#: ../inc/panel/theme-options.php:1961
+msgid ""
+"Note: Here You can put your Page IDs which displays on Homepage as slider."
+msgstr ""
+"Hier kun je de ID's van de pagina's die in de slider moeten komen neerzetten."
+
+#: ../inc/panel/theme-options.php:1970
+msgid "Featured Category Slider Options"
+msgstr "Uitgelichte categorie-slider opties"
+
+#: ../inc/panel/theme-options.php:1974
+msgid "Select Slider Categories"
+msgstr "Selecteer categorieën voor de slider"
+
+#: ../inc/panel/theme-options.php:1975
+msgid ""
+"Use this only is you want to display posts from Specific Categories in "
+"Featured Slider"
+msgstr ""
+"Gebruik dit alleen als je slechts berichten uit bepaalde categorieën in de "
+"slider wilt hebben"
+
+#: ../inc/panel/theme-options.php:1994
+msgid ""
+"Note: Here you can select the categories from which latest posts will "
+"display on Featured Slider."
+msgstr ""
+"Je kunt hier categorieën selecteren waaruit de meest recente berichten in de "
+"slider moeten komen"
+
+#: ../inc/panel/theme-options.php:2003
+msgid "Featured Image Slider Options"
+msgstr "Uitgelichte afbeeldingen-slider opties"
+
+#: ../inc/panel/theme-options.php:2007
+#, php-format
+msgid "Featured Image Slider #%s"
+msgstr "Uitgelichte afbeelding #%s"
+
+#: ../inc/panel/theme-options.php:2014
+#, php-format
+msgid "Insert as Featured Image Slider #%s"
+msgstr "Insert as Featured Image Slider #%s"
+
+#: ../inc/panel/theme-options.php:2014
+msgid "Upload"
+msgstr "Uploaden"
+
+#: ../inc/panel/theme-options.php:2064
+msgid "Predefined Social Icons"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:2100
+msgid "Youtube"
+msgstr "YouTube"
+
+#: ../inc/panel/theme-options.php:2116
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: ../inc/panel/theme-options.php:2124
+msgid "Slideshare"
+msgstr "Slideshare"
+
+#: ../inc/panel/theme-options.php:2132
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: ../inc/panel/theme-options.php:2252
+msgid "Goodreads"
+msgstr "Goodreads"
+
+#: ../inc/panel/theme-options.php:2268
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: ../inc/panel/theme-options.php:2313
+msgid "Custom Social Icons"
+msgstr "Aangepaste social media-iconen"
+
+#: ../inc/panel/theme-options.php:2317
+msgid "Number of Custom Social Icons"
+msgstr "Aantal aangepaste social media-iconen"
+
+#: ../inc/panel/theme-options.php:2325
+#, php-format
+msgid "Custom Social Icon #%s"
+msgstr "Aangepast social media-icoon #%s"
+
+#: ../inc/panel/theme-options.php:2328
+msgid "Social Icon Name"
+msgstr "Naam icoon"
+
+#: ../inc/panel/theme-options.php:2336
+msgid "Social Icon Image URL"
+msgstr "Afbeeldings-url voor icoon"
+
+#: ../inc/panel/theme-options.php:2340 ../inc/panel/theme-options.php:2349
+msgid "Insert as Custom Social Icon Image"
+msgstr "Insert as Custom Social Icon Image"
+
+#: ../inc/panel/theme-options.php:2345
+msgid "Social Icon Image URL on Hover "
+msgstr ""
+
+#: ../inc/panel/theme-options.php:2354
+msgid "Social Icon URL"
+msgstr "Url voor icoon"
+
+#: ../inc/panel/theme-options.php:2374
+msgid "Site Verification"
+msgstr "Site Verification"
+
+#: ../inc/panel/theme-options.php:2378
+msgid "Google Site Verification ID"
+msgstr "Google Site Verification ID"
+
+#: ../inc/panel/theme-options.php:2381
+msgid "Enter your Google ID number only"
+msgstr "Voer alleen het Google ID-nummer in"
+
+#: ../inc/panel/theme-options.php:2386
+msgid "Yahoo Site Verification ID"
+msgstr "Yahoo Site Verification ID"
+
+#: ../inc/panel/theme-options.php:2389
+msgid "Enter your Yahoo ID number only"
+msgstr "Voer alleen het Yahoo ID-nummer in"
+
+#: ../inc/panel/theme-options.php:2394
+msgid "Bing Site Verification ID"
+msgstr "Bing Site Verification ID"
+
+#: ../inc/panel/theme-options.php:2397
+msgid "Enter your Bing ID number only"
+msgstr "Voer alleen het Bing ID-nummer in"
+
+#: ../inc/panel/theme-options.php:2407
+msgid "Header and Footer Codes"
+msgstr "Header- en footercodes"
+
+#: ../inc/panel/theme-options.php:2411
+msgid "Code to display on Header"
+msgstr "Code om weer te geven in de header"
+
+#: ../inc/panel/theme-options.php:2414
+msgid ""
+"Note: Here you can put scripts from Google, Facebook, Twitter, Add This etc. "
+"which will load on Header"
+msgstr ""
+
+#: ../inc/panel/theme-options.php:2419
+msgid "Code to display on Footer"
+msgstr "Code om weer te geven in de footer"
+
+#: ../inc/panel/theme-options.php:2422
+msgid ""
+"Note: Here you can put scripts from Google, Facebook, Twitter, Add This etc. "
+"which will load on footer"
+msgstr ""
+"Je kunt hier scripts van onder andere Google, Facebook, Twitter en Add This "
+"toevoegen, ze zullen laden onder Footer"
+
+#: ../inc/panel/theme-options.php:3313
+msgid "More Theme Options &raquo;"
+msgstr "More Theme Options &raquo;"
+
+#: ../inc/template-tags.php:51 ../inc/template-tags.php:112
+msgid "Post navigation"
+msgstr "Berichtennavigatie"
+
+#: ../inc/template-tags.php:55 ../inc/template-tags.php:116
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: ../inc/template-tags.php:56 ../inc/template-tags.php:117
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: ../inc/template-tags.php:68 ../inc/template-tags.php:129
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Oudere berichten"
+
+#: ../inc/template-tags.php:72 ../inc/template-tags.php:133
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nieuwere berichten <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../inc/template-tags.php:164
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../inc/template-tags.php:164
+msgid "(Edit)"
+msgstr "(Bewerken)"
+
+#: ../inc/template-tags.php:179
+msgid "Post author"
+msgstr "Auteur van dit bericht:"
+
+#. translators: 1: date, 2: time
+#: ../inc/template-tags.php:185
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s op %2$s"
+
+#: ../inc/template-tags.php:191
+msgid "Your comment is awaiting moderation."
+msgstr "Jouw reactie wacht op moderatie."
+
+#: ../inc/template-tags.php:200
+msgid "Reply"
+msgstr "Reageren"
+
+#: ../inc/template-tags.php:240 ../inc/template-tags.php:325
+#, php-format
+msgid "View all posts by %s"
+msgstr "Bekijk alle berichten op %s"
+
+#: ../inc/template-tags.php:245
+#, php-format
+msgid ""
+"<span class=\"on-date\">Posted on %1$s</span><span class=\"by-author\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"on-date\">Geplaatst op %1$s</span><span class=\"by-author\"> "
+"door %2$s</span>"
+
+#: ../inc/template-tags.php:267 ../inc/template-tags.php:270
+#: ../inc/template-tags.php:311 ../inc/template-tags.php:314
+msgid ", "
+msgstr ", "
+
+#: ../inc/template-tags.php:275
+#, php-format
+msgid ""
+"<span class=\"in-category\">Posted in %1$s</span><span class=\"sep\"> | </"
+"span><span class=\"in-tag\">Tagged %2$s</span>"
+msgstr ""
+"<span class=\"in-category\">Geplaatst in %1$s</span><span class=\"sep\"> | </"
+"span><span class=\"in-tag\">Tags %2$s</span> "
+
+#: ../inc/template-tags.php:277
+#, php-format
+msgid "<span class=\"in-category\">Posted in %1$s</span>"
+msgstr "<span class=\"in-category\">Geplaatst in %1$s</span>"
+
+#: ../inc/template-tags.php:331
+#, php-format
+msgid ""
+"<span class=\"on-date\">Posted on %3$s</span><span class=\"in-category\"> "
+"under %1$s</span><span class=\"sep\"> | </span><span class=\"in-tag\">Tagged "
+"%2$s</span><span class=\"sep\"> | </span><span class=\"by-author\"> By %4$s</"
+"span>"
+msgstr ""
+"<span class=\"on-date\">Geplaatst op %3$s</span><span class=\"in-category\"> "
+"in %1$s</span><span class=\"sep\"> | </span><span class=\"in-tag\">Tags "
+"%2$s</span><span class=\"sep\"> | </span><span class=\"by-author\"> Door "
+"%4$s</span>"
+
+#: ../inc/template-tags.php:333
+#, php-format
+msgid ""
+"<span class=\"on-date\">Posted on %3$s</span><span class=\"in-category\"> "
+"under in %1$s</span><span class=\"sep\"> | </span><span class=\"by-author\"> "
+"By %4$s</span>."
+msgstr ""
+"<span class=\"on-date\">Geplaatst op %3$s</span><span class=\"in-category\"> "
+"in %1$s</span><span class=\"sep\"> | </span><span class=\"by-author\"> Door "
+"%4$s</span>. "
+
+#: ../inc/template-tags.php:335
+#, php-format
+msgid ""
+"<span class=\"on-date\">Posted on %3$s</span><span class=\"sep\"> | </"
+"span><span class=\"by-author\"> By %4$s</span>."
+msgstr ""
+"<span class=\"on-date\">Geplaatst op %3$s</span><span class=\"sep\"> | </"
+"span><span class=\"by-author\"> Door %4$s</span>."
+
+#: ../inc/template-tags.php:406
+msgid "Posted on"
+msgstr "Geplaatst op"
+
+#: ../inc/template-tags.php:407
+msgid "By"
+msgstr "Door"
+
+#: ../no-results.php:15
+msgid "Nothing Found"
+msgstr "Geen resultaten gevonden"
+
+#: ../no-results.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Begin hier</a>. "
+
+#: ../no-results.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, maar er zijn geen overeenkomsten gevonden met deze zoektermen. "
+"Probeer het nog eens met andere zoektermen."
+
+#: ../no-results.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Het lijkt erop dat we niet kunnen vinden wat je zoekt. Misschien helpt het "
+"om te zoeken in de zoek-balk."
+
+#: ../search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: ../searchform.php:17 ../searchform.php:19
+msgid "Search"
+msgstr "Zoeken"
+
+#: ../searchform.php:18
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#~ msgid "Page %s"
+#~ msgstr "Pagina %s"
+
+#~ msgid ""
+#~ "Use this widget to add Social Icons from Social Icons Settings as a "
+#~ "widget. "
+#~ msgstr ""
+#~ "Gebruik deze widget om de social media-iconen uit '\"Social-media iconen"
+#~ "\" toe te voegen"
+
+#~ msgid "1. Catch Kathmandu: Social"
+#~ msgstr "1. Catch Kathmandu: Social media"
+
+#~ msgid "2. Catch Kathmandu: Advertisement"
+#~ msgstr "2. Catch Kathmandu: Advertenties"
+
+#~ msgid "3. Catch Kathmandu: Featured Content"
+#~ msgstr "3. Catch Kathmandu: Uitgelichte berichten"
+
+#~ msgid "4. Catch Kathmandu: Featured Page"
+#~ msgstr "4. Catch Kathmandu: Uitgelichte pagina"
+
+#~ msgid "5. Catch Kathmandu: Featured Post"
+#~ msgstr "5. Catch Kathmandu: Uitgelicht bericht"
+
+#~ msgid "6. Catch Kathmandu: About Profile"
+#~ msgstr "6. Catch Kathmandu: \"Over\"-profiel"
+
+#~ msgid "Predefine Social Icons"
+#~ msgstr "Stel sociale iconen in"
+
+#~ msgid ""
+#~ "Note: Note: Here you can put scripts from Google, Facebook, Twitter, Add "
+#~ "This etc. which will load on Header"
+#~ msgstr ""
+#~ "Je kunt hier scripts van onder andere Google, Facebook, Twitter en Add "
+#~ "This toevoegen, ze zullen laden onder Header"
+
+#~ msgid "Homepage Settings"
+#~ msgstr "Homepagina-instellingen"
+
+#~ msgid "Homepage Headline Options"
+#~ msgstr "Homepagina headline opties"
+
+#~ msgid "Homepage Headline Text"
+#~ msgstr "Homepagina headline tekst"
+
+#~ msgid "Homepage Subheadline Headline"
+#~ msgstr "Homepagina ondertitel"
+
+#~ msgid "Homepage Headline Button Text"
+#~ msgstr "Homepagina-knop tekst"
+
+#~ msgid "Homepage Headline Link"
+#~ msgstr "Homepagina headline link:"
+
+#~ msgid "Disable Homepage Headline?"
+#~ msgstr "Homepagina headline uitschakelen?"
+
+#~ msgid "Disable Homepage Subheadline?"
+#~ msgstr "Homepagina subtitel uitschakelen?"
+
+#~ msgid "Disable Homepage Button?"
+#~ msgstr "Homepagina-knop uitschakelen?"
+
+#~ msgid "Homepage Featured Content Options"
+#~ msgstr "Homepagina uitgelichte content opties"
+
+#~ msgid "Disable Homepage Featured Content?"
+#~ msgstr "Uitgelichte content op de homepagina uitschakelen?"
+
+#~ msgid "Featured Content #%s"
+#~ msgstr "Uitgelichte content #%s"
+
+#~ msgid "Insert as Homepage Featured Image"
+#~ msgstr "Insert as Homepage Featured Image"
+
+#~ msgid "Theme:"
+#~ msgstr "Theme:"
+
+#~ msgid ""
+#~ "You can add custom <acronym title=\"Hypertext Markup Language\">HTML</"
+#~ "acronym> and/or shortcodes, which will be automatically inserted into "
+#~ "your theme.<br />Some shorcodes: [footer-image], [the-year], [site-link], "
+#~ "[wp-link], [shop-link]  for current year, your site link, wordpress site "
+#~ "link, Catch Themes shop link respectively."
+#~ msgstr ""
+#~ "Je kunt eigen <acronym title=\"Hypertext Markup Language\">HTML</acronym> "
+#~ "en shortcodes toevoegen. <br />Een aantal shortcodes: [footer-image], "
+#~ "[the-year], [site-link], [wp-link] voor respectievelijk de "
+#~ "footerafbeelding, het huidige jaar, de link naar de site en een link naar "
+#~ "WordPress."
+
+#~ msgid "Catch Kathmandu Pro by"
+#~ msgstr "Catch Kathmandu Pro by"
+
+#~ msgid "Powered by"
+#~ msgstr "Mogelijk gemaakt door"
+
+#~ msgid "Theme"
+#~ msgstr "Thema"
+
+#~ msgid "Upload Fav Icon"
+#~ msgstr "Upload Favicon"
+
+#~ msgid "%s on Facebook"
+#~ msgstr "%s op Facebook"
+
+#~ msgid "%s on Twitter"
+#~ msgstr "%s op Twitter"
+
+#~ msgid "%s on Google+"
+#~ msgstr "%s op Google+"
+
+#~ msgid "%s on Linkedin"
+#~ msgstr "%s op Linkedin"
+
+#~ msgid "%s on Pinterest"
+#~ msgstr "%s op Pinterest"
+
+#~ msgid "%s on YouTube"
+#~ msgstr "%s op YouTube"
+
+#~ msgid "%s on Vimeo"
+#~ msgstr "%s op Vimeo"
+
+#~ msgid "%s on Slideshare"
+#~ msgstr "%s op Slideshare"
+
+#~ msgid "%s on Foursquare"
+#~ msgstr "%s op Foursquare"
+
+#~ msgid "%s on Flickr"
+#~ msgstr "%s op Flickr"
+
+#~ msgid "%s on Tumblr"
+#~ msgstr "%s op Tumblr"
+
+#~ msgid "%s on deviantART"
+#~ msgstr "%s op deviantART"
+
+#~ msgid "%s on Dribbble"
+#~ msgstr "%s op Dribbble"
+
+#~ msgid "%s on MySpace"
+#~ msgstr "%s op MySpace"
+
+#~ msgid "%s on WordPress"
+#~ msgstr "%s op WordPress"
+
+#~ msgid "%s on RSS"
+#~ msgstr "%s op RSS"
+
+#~ msgid "%s on Delicious"
+#~ msgstr "%s op Delicious"
+
+#~ msgid "%s on Last.fm"
+#~ msgstr "%s op Last.fm"
+
+#~ msgid "%s on Instagram"
+#~ msgstr "%s op Instagram"
+
+#~ msgid "%s on GitHub"
+#~ msgstr "%s op GitHub"
+
+#~ msgid "%s on Vkontakte"
+#~ msgstr "%s op Vkontakte"
+
+#~ msgid "%s on My World"
+#~ msgstr "%s op My World"
+
+#~ msgid "%s on Odnoklassniki"
+#~ msgstr "%s op Odnoklassniki"
+
+#~ msgid "%s on Goodreads"
+#~ msgstr "%s op Goodreads"
+
+#~ msgid "%s on Skype"
+#~ msgstr "%s op Skype"
+
+#~ msgid "%s on Soundcloud"
+#~ msgstr "%s op Soundcloud"
+
+#~ msgid "%s on Email"
+#~ msgstr "%s op E-mail"
+
+#~ msgid "http://catchthemes.com/themes/catch-kathmandu-pro/"
+#~ msgstr "http://catchthemes.com/themes/catch-kathmandu-pro/"
+
+#~ msgid "Upgrade to Catch Kathmandu Pro"
+#~ msgstr "Upgrade naar Catch Kathmandu Pro"
+
+#~ msgid "http://catchthemes.com/donate/"
+#~ msgstr "http://catchthemes.com/donate/"
+
+#~ msgid "Donate to Catch Kathmandu"
+#~ msgstr "Doneer aan Catch Kathmandu"
+
+#~ msgid "Donate Now"
+#~ msgstr "Doneer nu"
+
+#~ msgid "http://catchthemes.com/theme-instructions/catch-kathmandu/"
+#~ msgstr "http://catchthemes.com/theme-instructions/catch-kathmandu/"
+
+#~ msgid "Tools"
+#~ msgstr "Overige instellingen"
+
+#~ msgid "Enable Secondary Menu in Mobile Devices?"
+#~ msgstr "Alternatief menu inschakelen op mobiele apparaten?"
+
+#~ msgid "Headine Link"
+#~ msgstr "Homepagina-knop link"
+
+#~ msgid "Catch Kathmandu"
+#~ msgstr "Catch Kathmandu"

@@ -1,0 +1,170 @@
+== Changelog ==
+
+Version 4.4
+* Added screen-reader-text css
+* Compatible with WordPress 4.3
+* Removed support for WordPress version less than 4.1
+* Updated: Brazilian Portuguese translation pt_BR.po and pt_BR.mo
+* Updated: French translation fr_FR.po and fr_FR.mo
+* Updated codes to comply with deprecating PHP4 style constructors in WordPress 4.3
+* Updated text-domain
+
+Version 4.3.1
+* Fixed Featured Content Display cache issue and added !function_exists to catchkathmandu_homepage_featured_display
+
+Version 4.3
+* Added Support for qTranslate X plugin
+* Bug Fixed: Post slider options showing on selecting demo slider
+* Changed Homepage Featured Content to Featured Content and moved to separate tab in theme options
+* Changed Homepage Headline Options to Promotion Headline Options
+* Moved Homepage/Frontpage Setting to Theme Options
+* Replaced pre_get_posts with parse_query for catchkathmandu_alter_home for better WPML plugin handle
+* Removed catchkathmandu-grey.js and catchkathmandu-grey.min.js as it's no longer used
+* Added option to opload hover image in Custom Social Icon Image 
+* Updated genericons to version 3.3
+* Updated wpml-config.xml file
+* Updated French translation fr_FR.po and fr_FR.mo
+
+Version 4.2
+* Added German translation de_DE.po and de_DE.mo
+* Bug Fixed: Footer Editor option for WPML
+
+Version 4.1
+* Added more theme options button in Customizer
+* Fixed default color code for primary menu color options
+* Removed functions to fixed plugin compatibility issues
+	** catchkathmandu_woocommerce_activated()
+	** catchkathmandu_wpml_activated()
+	** catchkathmandu_mqtranslate_activated()
+
+Version 4.0
+* Added Catalan translation ca_ES.po and ca_ES.mo
+* Added Support for mqTranlsate plugin
+* Added Support for Polylang plugin
+* Added title tag via add theme support
+* Added function to change the content width based on the Theme Settings and Page/Post Settings
+* Bug Fixed: Title color issue in dark color scheme widget title
+* Bug Fixed: Featured Header image conditions
+* Bug Fixed: Margin issue in Comments
+* Changed default footer text and link to Author URI
+* Replaced get_bloginfo() with admin_url() that links to Theme Options in post/page meta
+* Removed shortcodes and provided backward compatibility for shortcodes
+* Removed is_ssl() check and updated the code on web font loading
+* Removed transient for catchkathmandu_featured_image
+* Replaced screenshot.png with screenshot.jpg
+* Updated Spanish translation es_ES.po and es_ES.mo
+* Updated Farbtastic Color Picker to Iris Color Picker in theme options and removed Farbtastic dependent files
+* Updated media uploader to new version in theme options
+* Updated Slider to show demo slider only when Select Slider Type is selected as Demo
+* Updated Featured Page Slider Id option to Page dropdown list (previously, user had to find and enter page id)
+
+Version 3.2
+* Added meetup social icon
+* Removed # link where the link in empty from Homepage Featured Content ( Reported by Heinz )
+* Fixed missing closing span tag when using Image Slider without link ( Reported by Heinz )
+* Fixed missing closing span tag in post meta ( Reported by Heinz )
+
+Version 3.1
+* Added Dutch translation nl_NL.po and nl_NL.mo
+* Added Turkish translation tr_TR.po and tr_TR.mo
+* Added option to disable website url in comment options
+* Added Contact link option
+* Added Xing social icon
+* Added Google Structure Data
+* Added homepage headline color options
+* Fixed Email social icon link issue  (Reported by Michaela)
+* Fixed scroll up issue in mobile devices
+* Fixed header featured image issue (Reported by Jacopo)
+ 
+Version 3.0
+* Added scroll Up script and color options
+* Added slider color options
+* Added pagination color option for pagination plugin WP-PageNavi and WP Page Numbers
+* Added genericons
+* Fixed disable update notifier 
+* Fixed dark color scheme css for slider
+
+Version 2.8
+* Added email in social link option
+* Added update notification option
+* Fixed responsive css issue with iPad and iPhone
+* Optimized Theme Options panel to speed up
+
+Version 2.7
+* Added Italian translation it_IT.po and it_IT.mo
+* Added German(SWITZERLAND) translation de_CH.po and de_CH.mo
+* Added Japanese translation ja.po and ja.mo
+* Fixed transit cache issue in WPML & qTranslate plugin
+* Removed rem in width, padding and margins, now only in font sizes
+
+Version 2.6
+* Added Brazilian Portuguese translation pt_BR.po and pt_BR.mo
+* Added new theme updater functions
+* Fixed menu color option in dark color scheme (Reported by puriabhishek22)
+
+Version 2.5
+* Added Polish translation pl_PL.po and pl_PL.mo
+* Fixed Footer widget issues in Mobile devices when using 3 footer areas (Reported By Tim) 
+* Fixed Image slider image not showing when title empty (Reported by Perriard)
+
+Version 2.4.1
+* Removed unused page template
+* Fixed body_class filter for sidebar layout in individual page/post
+
+Version 2.4
+* Added Russian translation ru_RU.po and ru_RU.mo
+* Added Spanish translation es_ES.po and es_ES.mo
+* Added default logo images option to select
+* Fixed image slider undefined index issue
+* Fixed Featured Header Image function (Reported By Michelle Crowe)
+* Fixed Sidebar Layout and Sidbear option for Home and Blog page (Reported By Melanie) 
+
+Version 2.3
+* Added French translation fr_FR.po and fr_FR.mo
+* Removed cursor pointer from slider entry-container and added only in link slider title (Reported by bwooster47)
+* Fixed homepage headline button not showing when disabling Homepage Headline and Homepage Subheadline (Reposted by Max)
+* Fixed transit for WPML plugin
+* Fixed transit for qTranslate plugin
+
+Version 2.2
+* Added Support for WP-PostViews
+* Added Support for Jetpack Infinite Scroll
+* Added Aria Haspopup for menu in Touch Devices
+* Fixed secondary and footer menu
+* Removed menu mobile header and just highlight current menu item
+
+Version 2.1.1
+* Fixed Menu CSS color options
+* Fixed mobile menu link issue
+* Fixed slider text issue
+
+Version 2.1
+* Added WooCommerce sidebar
+* Changed Secondary and Footer Menu id for HTML validation (Reported By bschell) 
+* Fixed WooCommerce layout issue
+* Fixed Footer Editor Options button issue (Reported By Bogdan Bogdan)
+
+Version 2.0
+* Added secondary menu and footer menu color in Color Options
+* Added link target option for homepage headline button
+* Added support for WPML plugin
+* Added support for qTranslate plugin
+* Minified admin and color picket js file
+* Updated responsive menu script
+* Updated responsive video script
+* Updated HTML5 script
+* Updated slider script
+* Fixed Menu css
+* Fixed Menu Color Options
+
+Version 1.1
+* Header Image, Favicon, WebClip icon and Default image changed to Catch Kathmandu design
+* Screenshot changed to show the new header image and review button
+* $content_width changed from 750 to 1180 to match with Full Width Content Layout
+* Added default value for Homepage Headline button and Headline Link
+* Updated FitVids version 1.0.3 
+* Fixed UTF character issue in style.css theme description 
+* Removed depreciated functions add_custom_image_header() and add_custom_background()
+
+Version 1.0
+* Initial release

@@ -1,0 +1,18 @@
+CREATE TABLE `wp_bcyw_term_taxonomy` (  `term_taxonomy_id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,  `term_id` bigint(20) unsigned NOT NULL DEFAULT '0',  `taxonomy` varchar(32) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT '',  `description` longtext COLLATE utf8mb4_unicode_ci NOT NULL,  `parent` bigint(20) unsigned NOT NULL DEFAULT '0',  `count` bigint(20) NOT NULL DEFAULT '0',  PRIMARY KEY (`term_taxonomy_id`),  UNIQUE KEY `term_id_taxonomy` (`term_id`,`taxonomy`),  KEY `taxonomy` (`taxonomy`)) ENGINE=MyISAM AUTO_INCREMENT=18 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/*!40000 ALTER TABLE `wp_bcyw_term_taxonomy` DISABLE KEYS */;
+INSERT INTO `wp_bcyw_term_taxonomy` VALUES('1', '1', 'category', '', '0', '6');
+INSERT INTO `wp_bcyw_term_taxonomy` VALUES('2', '2', 'nav_menu', '', '0', '7');
+INSERT INTO `wp_bcyw_term_taxonomy` VALUES('4', '4', 'post_format', '', '0', '1');
+INSERT INTO `wp_bcyw_term_taxonomy` VALUES('5', '5', 'category', 'These images are going to be featured in the homepage slider', '0', '5');
+INSERT INTO `wp_bcyw_term_taxonomy` VALUES('6', '6', 'category', 'These are the four boxes of content on the home page.', '0', '0');
+INSERT INTO `wp_bcyw_term_taxonomy` VALUES('8', '8', 'media_category', 'Documents', '0', '2');
+INSERT INTO `wp_bcyw_term_taxonomy` VALUES('9', '9', 'media_category', 'Images', '0', '1');
+INSERT INTO `wp_bcyw_term_taxonomy` VALUES('10', '10', 'post_format', '', '0', '0');
+INSERT INTO `wp_bcyw_term_taxonomy` VALUES('11', '11', 'post_format', '', '0', '1');
+INSERT INTO `wp_bcyw_term_taxonomy` VALUES('12', '12', 'category', '', '0', '1');
+INSERT INTO `wp_bcyw_term_taxonomy` VALUES('13', '13', 'topic-tag', '', '0', '1');
+INSERT INTO `wp_bcyw_term_taxonomy` VALUES('14', '14', 'topic-tag', '', '0', '1');
+INSERT INTO `wp_bcyw_term_taxonomy` VALUES('15', '15', 'topic-tag', '', '0', '1');
+INSERT INTO `wp_bcyw_term_taxonomy` VALUES('16', '16', 'topic-tag', '', '0', '1');
+INSERT INTO `wp_bcyw_term_taxonomy` VALUES('17', '17', 'topic-tag', '', '0', '1');
+/*!40000 ALTER TABLE `wp_bcyw_term_taxonomy` ENABLE KEYS */;

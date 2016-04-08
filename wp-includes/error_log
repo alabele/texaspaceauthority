@@ -1,0 +1,31 @@
+[04-Dec-2015 18:09:00 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/texaspac/public_html/wp-includes/rss-functions.php on line 8
+[02-Feb-2016 06:29:17 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home1/texaspac/public_html/wp-includes/nav-menu-template.php on line 16
+[02-Feb-2016 06:29:25 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home1/texaspac/public_html/wp-includes/class-walker-page.php on line 17
+[02-Feb-2016 06:29:26 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home1/texaspac/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[02-Feb-2016 06:30:06 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home1/texaspac/public_html/wp-includes/script-loader.php on line 25
+[02-Feb-2016 06:30:06 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home1/texaspac/public_html/wp-includes/script-loader.php on line 25
+[02-Feb-2016 06:30:06 America/Denver] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home1/texaspac/public_html/wp-includes/script-loader.php on line 25
+[02-Feb-2016 06:30:06 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/texaspac/public_html/wp-includes/script-loader.php on line 25
+[02-Feb-2016 06:30:14 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home1/texaspac/public_html/wp-includes/default-widgets.php on line 11
+[02-Feb-2016 06:30:14 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home1/texaspac/public_html/wp-includes/default-widgets.php on line 11
+[02-Feb-2016 06:30:14 America/Denver] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home1/texaspac/public_html/wp-includes/default-widgets.php on line 11
+[02-Feb-2016 06:30:14 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/texaspac/public_html/wp-includes/default-widgets.php on line 11
+[02-Feb-2016 06:30:26 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home1/texaspac/public_html/wp-includes/default-filters.php on line 17
+[02-Feb-2016 06:33:00 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home1/texaspac/public_html/wp-includes/functions.php on line 8
+[02-Feb-2016 06:33:00 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home1/texaspac/public_html/wp-includes/functions.php on line 8
+[02-Feb-2016 06:33:00 America/Denver] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/texaspac/public_html/wp-includes/functions.php on line 8
+[02-Feb-2016 06:33:00 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/texaspac/public_html/wp-includes/functions.php on line 8
+[02-Feb-2016 06:33:12 America/Denver] PHP Fatal error:  Call to undefined function is_admin() in /home1/texaspac/public_html/wp-includes/vars.php on line 23
+[02-Feb-2016 06:33:27 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home1/texaspac/public_html/wp-includes/class-walker-comment.php on line 16
+[02-Feb-2016 06:33:29 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home1/texaspac/public_html/wp-includes/compat.php on line 338
+[02-Feb-2016 06:33:29 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home1/texaspac/public_html/wp-includes/compat.php on line 338
+[02-Feb-2016 06:33:29 America/Denver] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home1/texaspac/public_html/wp-includes/compat.php on line 338
+[02-Feb-2016 06:33:29 America/Denver] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/texaspac/public_html/wp-includes/compat.php on line 338
+[02-Feb-2016 06:33:31 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/texaspac/public_html/wp-includes/formatting.php on line 4820
+[02-Feb-2016 06:34:11 America/Denver] PHP Fatal error:  Call to undefined function _deprecated_file() in /home1/texaspac/public_html/wp-includes/rss.php on line 19
+[02-Feb-2016 06:34:13 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home1/texaspac/public_html/wp-includes/class-walker-category.php on line 17
+[02-Feb-2016 06:34:14 America/Denver] PHP Fatal error:  Class 'Walker' not found in /home1/texaspac/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[02-Feb-2016 06:34:17 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home1/texaspac/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[02-Feb-2016 06:34:17 America/Denver] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home1/texaspac/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[02-Feb-2016 06:34:17 America/Denver] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home1/texaspac/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[02-Feb-2016 06:34:17 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/texaspac/public_html/wp-includes/class-wp-customize-panel.php on line 388

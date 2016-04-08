@@ -1,0 +1,18 @@
+CREATE TABLE `wp_bcyw_terms` (  `term_id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,  `name` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT '',  `slug` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL DEFAULT '',  `term_group` bigint(10) NOT NULL DEFAULT '0',  PRIMARY KEY (`term_id`),  KEY `slug` (`slug`(191)),  KEY `name` (`name`(191))) ENGINE=MyISAM AUTO_INCREMENT=18 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+/*!40000 ALTER TABLE `wp_bcyw_terms` DISABLE KEYS */;
+INSERT INTO `wp_bcyw_terms` VALUES('1', 'Uncategorized', 'uncategorized', '0');
+INSERT INTO `wp_bcyw_terms` VALUES('2', 'Navigation', 'navigation', '0');
+INSERT INTO `wp_bcyw_terms` VALUES('4', 'post-format-gallery', 'post-format-gallery', '0');
+INSERT INTO `wp_bcyw_terms` VALUES('5', 'Homepage Slider', 'homepage-slider', '0');
+INSERT INTO `wp_bcyw_terms` VALUES('6', 'Homepage Featured Content', 'home-featured-content', '0');
+INSERT INTO `wp_bcyw_terms` VALUES('8', 'Documents', 'docs', '0');
+INSERT INTO `wp_bcyw_terms` VALUES('9', 'Images', 'images', '0');
+INSERT INTO `wp_bcyw_terms` VALUES('10', 'post-format-link', 'post-format-link', '0');
+INSERT INTO `wp_bcyw_terms` VALUES('11', 'post-format-video', 'post-format-video', '0');
+INSERT INTO `wp_bcyw_terms` VALUES('12', 'News', 'news', '0');
+INSERT INTO `wp_bcyw_terms` VALUES('13', 'Nonprofit', 'nonprofit', '0');
+INSERT INTO `wp_bcyw_terms` VALUES('14', 'story', 'story', '0');
+INSERT INTO `wp_bcyw_terms` VALUES('15', 'body', 'body', '0');
+INSERT INTO `wp_bcyw_terms` VALUES('16', 'men', 'men', '0');
+INSERT INTO `wp_bcyw_terms` VALUES('17', 'female', 'female', '0');
+/*!40000 ALTER TABLE `wp_bcyw_terms` ENABLE KEYS */;

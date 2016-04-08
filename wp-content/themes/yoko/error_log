@@ -1,0 +1,2 @@
+[31-Oct-2015 08:22:17 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/texaspac/public_html/wp-content/themes/yoko/404.php on line 7
+[18-Nov-2015 02:36:12 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home1/texaspac/public_html/wp-content/themes/yoko/404.php on line 7
